@@ -30,9 +30,9 @@ And because autistic people tend to have these wiki-like levels of knowledge abo
 CC-BY-SA-4.0
 
 [^1]: Some of these might even gets merged into the [Multiverse Wiki](https://multiverse.lorebooks.eu.org) at [`lorebooks.wiki`](https://lorebooks.eu.org).
-[^2]: Unless you ask either Elliot Alderson (Mr. Robot), Yusaku Fujiki (YGO VRAINS), Fundy (Dream SMP character) or Hunter (The Owl House).
+[^2]: Unless you ask either Elliot Alderson (Mr. Robot), [Yusaku Fujiki](https://go.andreijiroh,eu.org/playmaker) (YGO VRAINS), [Fundy](https://go.andreijiroh.eu.org/fundy/dsmp) (Dream SMP character) or [Hunter](https://go.andreijiroh.eu.org/toh/hunter) (The Owl House).
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not a Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a Macbook if you do, just ask in Keybase for the address once you shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzI2NjMxLDY4MDcyMzYyMV19
+eyJoaXN0b3J5IjpbLTEwMzQwNzk1MDIsNjgwNzIzNjIxXX0=
 -->
