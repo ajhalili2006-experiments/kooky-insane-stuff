@@ -11,7 +11,7 @@ Don't worry, he's probably fine [^2] other than the regular internalized ableism
 
 ## How tf we got here?
 
-> From Nori Doorman's wiki page in Murder Drones Fandom for context, under trivia section:
+> From [Nori Doorman](https://murder-drones.fandom.com/wiki/Nori_Doorman)'s wiki page in Murder Drones Fandom for context, under trivia section:
 >> _A closet containing "NORI'S KOOKY INSANE STUFF" is seen in [The Promening](https://breezewiki.pussthecat.org/murder-drones/wiki/The_Promening), where Khan stores Uzi's crazed ramblings, hinting at her having a paranoid side to her similar to her daughter as during the events of [Cabin Fever](https://breezewiki.pussthecat.org/murder-drones/wiki/Cabin_Fever), Khan explained to Uzi that Nori would tell him to prepare for the "upcoming sky demons", "scary singularities" and a "cool 'S' [she] can draw"._
 
 I do dump out thoughts, things that I may need to do (before I got my own planner since 2023 F2F christmas party in school which albeit unused), and even draen out UI skecthes of my app ideas (mostly either webappp or Android, some on terminal interface or desktop) on the back of my school notebooks, which other people (especially my subject teachers and even my mom) think I'm wasting papers, so I bought some spare one for my personal use.
@@ -22,7 +22,14 @@ And because autistic people tend to have these wiki-like levels of knowledge abo
 
 TBD
 
+## Legalese
+
+Currently All Rights Reserved for now while I ironing out the kinks of licensing legalese. Fair use/fair dealing apply.
+
 [^1]: Some of these might even gets merged into the [Multiverse Wiki](https://multiverse.lorebooks.eu.org) at [`lorebooks.wiki`](https://lorebooks.eu.org).
 [^2]: Unless you ask either Elliot Alderson (Mr. Robot), Yusaku Fujiki (YGO VRAINS), Fundy (Dream SMP character) or Hunter (The Owl House).
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not a Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a Macbook if you do, just ask in Keybase for the address once you shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDc1Nzg1MzBdfQ==
+-->
