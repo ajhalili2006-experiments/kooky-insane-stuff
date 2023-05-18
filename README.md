@@ -1,6 +1,6 @@
 # Jiroh's Kooky Insane Stuff
 
-![Maintenance](https://img.shields.io/maintenance/yes/2023?color=orange&label=experimental%20project&style=for-the-badge)
+[![Maintenance](https://img.shields.io/maintenance/yes/2023?color=orange&label=experimental%20project&style=for-the-badge)](https://experiments.andreijioh.eu.org)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/ajhalili2006?label=pgp%20%28via%20keybase%29&logo=keybase&logoColor=white&style=for-the-badge)](https://keybase.io/ajhalili2006)
 
 [![Nori's Kooky Insane Stuff in Murder Drones S01EP03](https://static.wikia.nocookie.net/murder-drones/images/7/73/Screenshot_2023-02-20_NORIS_KOOKY_INSANE_STUFF.png)](https://murder-drones.fandom.com/wiki/The_Promening#Plot)
@@ -34,5 +34,5 @@ Currently All Rights Reserved for now while I ironing out the kinks of licensing
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not a Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a Macbook if you do, just ask in Keybase for the address once you shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU3NzYwNTEsNjgwNzIzNjIxXX0=
+eyJoaXN0b3J5IjpbLTk4MDI5MjcyOCw2ODA3MjM2MjFdfQ==
 -->
