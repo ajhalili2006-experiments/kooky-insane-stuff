@@ -16,25 +16,29 @@ Isang sa mga pinangusapan nila na sentro ng kabanata nito ay ang pagpapalalim ng
 
 ## Kabanata 2
 
+TBD
+
 ## Kabanata 3
+
+TBD
 
 ## Kabanata 4
 
+TBD
+
 ## Kabanata 5
 
-## Sources
+TBD
 
-Any dokumentong ito ay ginawa sa tulong ng mga sumusunod na resources:
+## Kabanata 6
 
-*
-*
-*
+TBD
 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTgwMjE4OTc1Miw4NTU0NTQ2MDgsNDE2Mz
-c5MjhdfQ==
+LCJoaXN0b3J5IjpbLTE4ODAxOTg3OTEsODU1NDU0NjA4LDQxNj
+M3OTI4XX0=
 -->
