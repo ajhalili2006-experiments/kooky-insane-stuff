@@ -16,7 +16,7 @@ Isang sa mga pinangusapan nila na sentro ng kabanata nito ay ang pagpapalalim ng
 
 ## Kabanata 2
 
-Nasa Bapor Tabo sina Simoun, pero bumababa siya sa ilalim ng kuberyta upang makita niya ang dalawang estudyanteng sina Basillo at Isagani. Sa ilalim nito, naghalo na di umano ang mabahong singaw ng langnis at singaw ng tao dahil kasama ng mga maleta, tamppi at bakol ang mga mababang uri noong panahon ng mga Kastila.
+Nasa Bapor Tabo sina Simoun, pero bumababa siya sa ilalim ng kuberyta upang makita niya ang dalawang estudyanteng sina Basillo at Isagani. Sa ilalim nito, naghalo na di umano ang mabahong singaw ng langnis at singaw ng tao dahil kasama ng mga maleta, tamppi at bakol ang mga mababang uri noong panahon ng mga Kastila at malapit rin sila sa makina at init ng kaldero. 
 
 ## Kabanata 3
 
@@ -39,6 +39,6 @@ TBD
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTE0ODQ0NDQ1Niw4NTU0NTQ2MDgsNDE2Mz
+LCJoaXN0b3J5IjpbMTIxODgwMjAyMiw4NTU0NTQ2MDgsNDE2Mz
 c5MjhdfQ==
 -->
