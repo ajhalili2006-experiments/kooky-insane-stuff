@@ -18,7 +18,7 @@ Isang sa mga pinangusapan nila na sentro ng kabanata nito ay ang pagpapalalim ng
 
 Nasa Bapor Tabo sina Simoun, pero bumababa siya sa ilalim ng kuberyta upang makita niya ang dalawang estudyanteng sina Basilio at Isagani. Sa ilalim nito, naghalo na di umano ang mabahong singaw ng langnis at singaw ng tao dahil kasama ng mga maleta, tamppi at bakol ang mga mababang uri noong panahon ng mga Kastila at malapit rin sila sa makina at init ng kaldero.
 
-Kausap nila si Kapitan Basilio tungkol sa mga bagay-bagay, lalo na sa balak ng mga estudyante na bumubuo ng Akademya ng Wikang Kastila. Ayon sa Kapitan ay hindi raw ito magtatagumpay dahil ayon sa kanya ay mas piniling niya na manatiling "bobo" ang mga Pilipino tulad ngayon dahil sa tinawag na "smart shaming" o mas tamang na salita na "anti-intellectualism"[^1].
+Kausap nila si Kapitan Basilio tungkol sa mga bagay-bagay, lalo na sa balak ng mga estudyante na bumubuo ng Akademya ng Wikang Kastila. Ayon sa Kapitan ay hindi raw ito magtatagumpay dahil ayon sa kanya ay mas piniling niya na manatiling "bobo" ang mga Pilipino tulad ngayon dahil sa tinawag na "smart shaming" o mas tamang na salita na "anti-intellectualism"[^1] pero tutol naman dito ang dalawa ay kaya lumayo na ang kapitan.
 
 [^1]: See also <https://www.rappler.com/voices/imho/smart-shaming/>,
 <https://www.gmanetwork.com/news/scitech/science/517026/smart-shaming-and-our-pinoy-culture-of-anti-intellectualism/story/>, and <https://medium.com/@zyrondelvalle/smart-shaming-a-disease-that-kills-meaningful-conversations-41848a6899f5>
@@ -44,6 +44,6 @@ TBD
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTI0NzU1OTE4MCw4NTU0NTQ2MDgsNDE2Mz
+LCJoaXN0b3J5IjpbMTU1MjYyODIyOSw4NTU0NTQ2MDgsNDE2Mz
 c5MjhdfQ==
 -->
