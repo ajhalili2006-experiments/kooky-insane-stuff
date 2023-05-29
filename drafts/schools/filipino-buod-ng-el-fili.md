@@ -17,7 +17,7 @@ Isang sa mga pinangusapan nila na sentro ng kabanata nito ay ang pagpapalalim ng
 
 ## Kabanata 2
 
-Nasa Bapor Tabo sina Simoun, pero bumababa siya sa ilalim ng kuberyta upang makita niya ang dalawang estudyanteng sina Basilio at Isagani. Sa ilalim nito, naghalo na di umano ang mabahong singaw ng langis at singaw ng tao dahil kasama ng mga maleta, tamppi at bakol ang mga mababang uri noong panahon ng mga Kastila at malapit rin sila sa makina at init ng kaldero. Ang ilalim ito ay sumisibol sa nararanasan diskriminasyon hindi lamang ng mga nabiktima ng kolonyalismo ng Europeo at Amerika, lalo na sa panahong ngayon, dahil sa kapansanan, pagkakaiba sa pananaw pulitikal at relihiyon, pagkakakilanlan ng kasarian, lahi, kulay ng balat at iba pa. Minsan, sa pagitan ng pagsusuri sa madalas na magkakapatong at magkakaugnay na mga sistema ng diskrimansyon 
+Nasa Bapor Tabo sina Simoun, pero bumababa siya sa ilalim ng kuberyta upang makita niya ang dalawang estudyanteng sina Basilio at Isagani. Sa ilalim nito, naghalo na di umano ang mabahong singaw ng langis at singaw ng tao dahil kasama ng mga maleta, tamppi at bakol ang mga mababang uri noong panahon ng mga Kastila at malapit rin sila sa makina at init ng kaldero. Ang ilalim ito ay sumisibol sa nararanasan diskriminasyon hindi lamang ng mga nabiktima ng kolonyalismo ng Europeo at Amerika, lalo na sa panahong ngayon, dahil sa kapansanan, pagkakaiba sa pananaw pulitikal at relihiyon, pagkakakilanlan ng kasarian, lahi, kulay ng balat at iba pa. Minsan, sa pagitan ng pagsusuri sa madalas na magkakapatong at magkakaugnay na mga sistema ng diskriminasyon na tinawag na "intersectionality" ay mas mabigat ang epekto nito sa komunidad, lalo na ang mga may nagsasalubong na mga pagkakakilanlan.
 
 Kausap nila si Kapitan Basilio tungkol sa mga bagay-bagay, lalo na sa balak ng mga estudyante na bumubuo ng Akademya ng Wikang Kastila. Ayon sa Kapitan ay hindi raw ito magtatagumpay dahil ayon sa kanya ay mas piniling niya na manatiling "bobo" ang mga Pilipino tulad ngayon dahil sa tinawag na "smart shaming" o mas tamang na salita na "anti-intellectualism"[^1] pero tutol naman dito ang dalawa ay kaya lumayo na ang kapitan.
 
@@ -57,7 +57,7 @@ U0NjA4LDQxNjM3OTI4XX0=
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTE3ODcxMzczLC0xOTY4MDU5NTMsLTEwOT
-kyNDE1NTksMjE5MzA1NzEwLDE1NTI2MjgyMjksNDE2Mzc5Mjhd
-fQ==
+LCJoaXN0b3J5IjpbMTc2MDU1NTc0MSwtMTk2ODA1OTUzLC0xMD
+k5MjQxNTU5LDIxOTMwNTcxMCwxNTUyNjI4MjI5LDQxNjM3OTI4
+XX0=
 -->
