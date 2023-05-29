@@ -21,7 +21,7 @@ Nasa Bapor Tabo sina Simoun, pero bumababa siya sa ilalim ng kuberyta upang maki
 
 Kausap nila si Kapitan Basilio tungkol sa mga bagay-bagay, lalo na sa balak ng mga estudyante na bumubuo ng Akademya ng Wikang Kastila. Ayon sa Kapitan ay hindi raw ito magtatagumpay dahil ayon sa kanya ay mas piniling niya na manatiling "bobo" ang mga Pilipino tulad ngayon dahil sa tinawag na "smart shaming" o mas tamang na salita na "anti-intellectualism"[^1] pero tutol naman dito ang dalawa ay kaya lumayo na ang kapitan.
 
-Noong makita ni Simoun ang magkabigan, agad na ipinakilala ni Basilio kay Simoun si Isagani. Ayon kay Simoun, hindi niya nakapunta ang lalawigan niya dahil ito ay mahirap at di makabibili ng alahas pero sinabi ni estudyanteng makata na hindi naman nila kailangan. Napangiti na lamang si Simoun sa paliwanag niya, mag pari sa simbahan sa lalawigang nabanggut ay purong Pilipino.
+Noong makita ni Simoun ang magkaibigan, agad na ipinakilala ni Basilio kay Simoun si Isagani. Ayon kay Simoun, hindi niya makapunta ang lalawigan niya dahil ito ay mahirap at di makabibili ng alahas pero sinabi ni estudyanteng makata na hindi naman nila kailangan. Nakangiti na lamang siya sa paliwanag niya na ang mga pari sa simbahan sa lalawigang nabanggit ay purong Pilipino.
 
 [^1]: See also <https://www.rappler.com/voices/imho/smart-shaming/>,
 <https://www.gmanetwork.com/news/scitech/science/517026/smart-shaming-and-our-pinoy-culture-of-anti-intellectualism/story/>, and <https://medium.com/@zyrondelvalle/smart-shaming-a-disease-that-kills-meaningful-conversations-41848a6899f5>
@@ -53,6 +53,6 @@ U0NjA4LDQxNjM3OTI4XX0=
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTEwOTkyNDE1NTksMjE5MzA1NzEwLDE1NT
-I2MjgyMjksNDE2Mzc5MjhdfQ==
+LCJoaXN0b3J5IjpbMjAzNTIzNDQzMiwtMTA5OTI0MTU1OSwyMT
+kzMDU3MTAsMTU1MjYyODIyOSw0MTYzNzkyOF19
 -->
