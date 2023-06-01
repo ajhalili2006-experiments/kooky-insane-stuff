@@ -9,11 +9,15 @@ targetPlatform: substack.com
 
 The more I think about **Generation Loss: The Social Experiments**, the more my Autistic brain want to play this video from @thejuicemedia's Honest Government Ads about ~~climate change~~ internet shitfuckeries.
 
+While we'll gonna have a field day looking at what's in store
+
+## GL!Ranboo's mask and autistic masking
+
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTExNjM2NDM5OTEsLTE2MjcyMzAzOTYsLT
-I1MTAwMTAzNiwxMjA1MTM3MDMxXX0=
+LCJoaXN0b3J5IjpbNjAzODE5NTgxLC0xNjI3MjMwMzk2LC0yNT
+EwMDEwMzYsMTIwNTEzNzAzMV19
 -->
