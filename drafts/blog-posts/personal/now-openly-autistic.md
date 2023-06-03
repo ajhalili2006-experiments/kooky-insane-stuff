@@ -5,17 +5,17 @@ publication: personal
 targetPlatform: substack.com, medium.com, post.news
 ---
 
-> **Warning**: This is obviously a public draft, possibly for Autistic Pride Day to foster early feedback. Please send your thoughts to the [public inbox](https://lists.sr.ht/~ajhalili2006/public-inbox) (in plaintext email only) or shoot me via my socials while keeping decency and intersectional respect.
+> **Warning**: This is obviously a public draft, possibly for Autistic Pride Day to foster early feedback from my immediate family members and the wider online Autistic community. Please send your thoughts to the [public inbox](https://lists.sr.ht/~ajhalili2006/public-inbox) (in plaintext email only) or shoot me via my socials while keeping decency and intersectional respect.
 
 **Mandatory content warnings, per MTRCB policies**: Mentions of suicidal ideation, mental health issues and possibly childhood trauma of growing up neurodivergent.
 
-I'm holding this for years, and I'm gonna say this might affect what people think about me, especially my employability (although I might consider pivoting into self-employment through making Recap Time Squad officially a legal company and also going full-time on open-source). I also have some reservations about this, because I still have
+I'm holding this for years, and I'm gonna say this might affect what people think about me, especially my employability (although I might consider pivoting into self-employment through making Recap Time Squad officially a legal company and also going full-time on open-source). I also have some reservations about this, because I still have what Filipinos know as TBD.
 
-Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for years] I do experience anxiety (especially social, performance and math anxiety) and depressed, often times a [doomer](https://www.reddit.com/r/doomer/comments/i2i4a6/is_anyone_else_here_on_the_autism_spectrum/?utm_source=share&utm_medium=web2x&context=3)/pessimistic/catastrophizing about the future (especially my own prospects, literal use of the terms like "Look How Fucked We Are" and "Stop Here or We're Fucked" from TheJuiceMedia's Honest Government Ad)
+Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for years] I do experience anxiety (especially social, performance and math anxiety) and depressed, often times a [doomer](https://www.reddit.com/r/doomer/comments/i2i4a6/is_anyone_else_here_on_the_autism_spectrum/?utm_source=share&utm_medium=web2x&context=3)/pessimistic/catastrophizing about the future (especially my own prospects, literal use of the terms like "Look How Fucked We Are" and "Stop Here or We're Fucked" from TheJuiceMedia's Honest Government Ad) while at the same time figuring out about my trauma while growing up neurodivergent and fighting against my own inner demons (a.k.a internalized ableism and my low self-esstem).
 
 ## The backstory: The formal diagnosis in early childhood
 
-I'm gonna admit that I was privileged enough to have a
+I'm gonna admit that I was privileged enough to have a formal diagnosis early on, but my support system is between non-existent and mostly unstable
 
 <!-- Links go here. -->
 [#ActuallyAutistic]: https://todo.com
@@ -26,5 +26,5 @@ I'm gonna admit that I was privileged enough to have a
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbNTExNjM4NjAwLC0zNzE5MTU0MTZdfQ==
+LCJoaXN0b3J5IjpbLTEzNDIyMzUwMzAsLTM3MTkxNTQxNl19
 -->
