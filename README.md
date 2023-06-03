@@ -32,13 +32,13 @@ And because autistic people tend to have these wiki-like levels of knowledge abo
 
 ## Legalese
 
-CC-BY-SA-4.0
+All Markdown content and original media should be under CC-BY-SA-4.0 unless otherwise noted.
 
 [^1]: Some of these might even gets merged into the [Multiverse Wiki](https://multiverse.lorebooks.eu.org) at [`lorebooks.wiki`](https://lorebooks.eu.org).
 [^2]: Unless you ask either [Elliot Alderson](https://go.andreijiroh.eu.org/elliot) (Mr. Robot), [Yusaku Fujiki](https://go.andreijiroh,eu.org/playmaker) (YGO VRAINS), [Fundy](https://go.andreijiroh.eu.org/fundy/dsmp) (Dream SMP character) or [Hunter](https://go.andreijiroh.eu.org/toh/hunter) (The Owl House).
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not an Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a MacBook if you do, just ask in Keybase for the address once you have shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkxNTcxNjIsLTEwMzQwNzk1MDIsNj
-gwNzIzNjIxXX0=
+eyJoaXN0b3J5IjpbNjc0NjYxMDU1LC0xMzU5MTU3MTYyLC0xMD
+M0MDc5NTAyLDY4MDcyMzYyMV19
 -->
