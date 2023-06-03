@@ -11,7 +11,7 @@ targetPlatform: substack.com, medium.com, post.news
 
 I'm holding this for years, and I'm gonna say this might affect what people think about me, especially my employability (although I might consider pivoting into self-employment through making Recap Time Squad officially a legal company and also going full-time on open-source). I also have some reservations about this, because I still have
 
-Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for years] I do experience anxiety (especially social, performance and math anxiety) and depressed, often times a [doomer](https://www.reddit.com/r/doomer/comments/i2i4a6/is_anyone_else_here_on_the_autism_spectrum/?utm_source=share&utm_medium=web2x&context=3)/pessimistic/casthorprizing about the future (especially my own prospects, literal use of the terms like "Look How Fucked We Are" and "Stop Here or We're Fucked" from TheJuiceMedia's Honest Government Ad)
+Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for years] I do experience anxiety (especially social, performance and math anxiety) and depressed, often times a [doomer](https://www.reddit.com/r/doomer/comments/i2i4a6/is_anyone_else_here_on_the_autism_spectrum/?utm_source=share&utm_medium=web2x&context=3)/pessimistic/catastrophizing about the future (especially my own prospects, literal use of the terms like "Look How Fucked We Are" and "Stop Here or We're Fucked" from TheJuiceMedia's Honest Government Ad)
 
 ## The backstory: The formal diagnosis in early childhood
 
@@ -24,5 +24,5 @@ Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTM3MTkxNTQxNl19
+LCJoaXN0b3J5IjpbLTk1OTA3NTkxNywtMzcxOTE1NDE2XX0=
 -->
