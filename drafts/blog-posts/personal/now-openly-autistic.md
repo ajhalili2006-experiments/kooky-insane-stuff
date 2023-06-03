@@ -15,6 +15,8 @@ Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for 
 
 ## The backstory: The formal diagnosis in early childhood
 
+I'm gonna admit that I was privileged enough to have a
+
 <!-- Links go here. -->
 [#ActuallyAutistic]: https://todo.com
 [thick mask for years]: https://twitter.com/Kuys_Potpot/status/1640025400263999489?s=20
@@ -24,5 +26,5 @@ Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTk1OTA3NTkxNywtMzcxOTE1NDE2XX0=
+LCJoaXN0b3J5IjpbNTExNjM4NjAwLC0zNzE5MTU0MTZdfQ==
 -->
