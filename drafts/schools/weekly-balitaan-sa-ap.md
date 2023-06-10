@@ -1,0 +1,73 @@
+> **Note to self**: Maghukay ka na ng sariling libingan sa clearance. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
+
+## First Quarter
+
+TBD
+
+## Second Quarter
+
+TBD
+
+## Third Quarter
+
+TBD
+
+## Fourth Quarter
+
+- April 20
+- 21
+- 22 - https://news.abs-cbn.com/video/news/04/22/23/oriental-mindoro-maaaring-makaranas-ng-blackout / https://news.abs-cbn.com/sports/04/22/23/chef-de-mission-optimistic-of-phs-chances-in-para-games
+- 23 - https://news.abs-cbn.com/video/news/04/22/23/libo-libong-muslim-sa-ibat-ibang-parte-ng-bansa-ipinagdiwang-ang-eidl-fitr / https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study
+- 24 - https://news.abs-cbn.com/video/business/04/24/23/mobile-phone-users-dumidiskarte-para-mairehistro-ang-sim
+- 25 - https://news.abs-cbn.com/classified-odd/04/25/23/80-goldfish-na-ninakaw-sa-germany-isinauli-din
+- 26 - https://www.rappler.com/nation/groups-question-marcos-meeting-biden-over-workers-labor-day-2023/
+- ~~27 - <https://www.rappler.com/nation/mindanao/barmms-says-supreme-court-order-did-not-acknowledge-sinsuat-governor/>~~
+- ~~28 - https://www.rappler.com/newsbreak/in-depth/sara-duterte-brings-red-tagging-deped>~~
+- ~~29 - <https://www.rappler.com/technology/vice-media-layoffs-news-tonight-shutdown-april-2023/>~~
+- ~~30 - <https://news.abs-cbn.com/news/04/30/23/repatriated-pinoys-from-sudan-recall-horrors-of-conflict>~~
+- ~~May 1 - <https://news.abs-cbn.com/video/business/05/01/23/work-life-balance-among-jobseekers-top-priority-in-new-normal-jobstreet>~~
+- 2 - <https://www.rappler.com/world/europe/king-charles-settles-life-monarch-long-wait/>
+- ~~3 - <https://techcrunch.com/2023/05/02/dma-applies>~~
+- 4 - https://news.abs-cbn.com/news/05/03/23/ilang-ofw-mula-sudan-dumating-ngayong-hapon (2023-05-03)
+- 5 - https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study (2023-04-23)
+- 6 - https://news.abs-cbn.com/overseas/05/06/23/charles-iii-crowned-king-at-first-uk-coronation-in-70-years [INTERNATIONAL]
+- 7 https://news.abs-cbn.com/news/05/06/23/more-than-1000-rescued-in-pampanga-scam-call-center (2023-05-06)
+- 8 - https://news.abs-cbn.com/spotlight/05/07/23/hollywood-strikes-inflamed-by-claim-ai-could-do-writers-jobs (2023-05-07) [TECH / SHOWBIZ]
+- 9 - https://news.abs-cbn.com/news/04/24/23/up-pioneers-study-seek-cure-for-rugby-abuse (2023-04-23)
+- 10 -
+- 11 -
+- 12 -
+- 13 -
+- 14 -
+- 15 -
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 24
+- 25
+- 26 - https://news.abs-cbn.com/news/05/26/23/at-least-20-malls-to-serve-as-voting-sites-in-bske-comelec
+- 27 -
+- 28 -
+- 29 - https://news.abs-cbn.com/video/news/05/29/23/batanes-2-linggo-nang-pinaghahandaan-ang-bagyong-betty
+- 30 - https://news.abs-cbn.com/video/news/05/30/23/senate-cuts-short-interpellation-period-for-maharlika-fund-bill / https://news.abs-cbn.com/video/news/05/30/23/some-senators-want-ngcp-to-refund-collected-fees
+- 31 - https://news.abs-cbn.com/spotlight/05/30/23/calls-to-scrap-religious-feelings-law-renewed-after-case-vs-priest (2023-05-31)
+- June 1 - https://www.spectrumnews.org/news/debate-remains-over-changes-in-dsm-5-a-decade-on/ (2023-05-31)
+- 2
+- 3
+- 4 - [https://news.abs-cbn.com/news/06/04/23/up-says-upcat-2024-a-success](https://news.abs-cbn.com/news/06/04/23/up-says-upcat-2024-a-success) / [https://news.abs-cbn.com/news/multimedia/photo/06/04/23/cyclists-climate-activists-pedal-for-planet](https://news.abs-cbn.com/news/multimedia/photo/06/04/23/cyclists-climate-activists-pedal-for-planet)
+- 5 - [https://news.abs-cbn.com/video/news/06/05/23/mobile-library-launched-in-makati](https://news.abs-cbn.com/video/news/06/05/23/mobile-library-launched-in-makati)
+- 6 - [https://news.abs-cbn.com/news/06/05/23/magiging-ugnayan-ng-pnp-comelec-sa-barangay-at-sk-elections-tinalakay](https://news.abs-cbn.com/news/06/05/23/magiging-ugnayan-ng-pnp-comelec-sa-barangay-at-sk-elections-tinalakay) / [https://news.abs-cbn.com/news/06/05/23/court-yet-to-decide-on-de-lima-bail-petition](https://news.abs-cbn.com/news/06/05/23/court-yet-to-decide-on-de-lima-bail-petition) / [https://news.abs-cbn.com/news/06/05/23/pnp-naghahanda-na-para-sa-paparating-na-sona-ni-marcos](https://news.abs-cbn.com/news/06/05/23/pnp-naghahanda-na-para-sa-paparating-na-sona-ni-marcos)
+- 7 - [https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan](https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan) (2023-06-04) / https://news.abs-cbn.com/news/06/07/23/magnitude-42-earthquake-jolts-camarines-sur
+- 8 - [https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos](https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos) (2023-06-03) / https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa (ABS-CBN News. (2023a, June 7). Problema sa 'brain drain', benepisyo ng frontliners nais tugunan ni Herbosa. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa)
+- 9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)
+- 10 -
+---
+> Written with [StackEdit+](https://stackedit.net/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTQwNDQ0Nzg5XX0=
+-->
