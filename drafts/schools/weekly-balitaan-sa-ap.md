@@ -65,9 +65,11 @@ TBD
 - 7 - [https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan](https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan) (2023-06-04) / https://news.abs-cbn.com/news/06/07/23/magnitude-42-earthquake-jolts-camarines-sur
 - 8 - [https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos](https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos) (2023-06-03, not selected) / ~~https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa (ABS-CBN News. (2023a, June 7). Problema sa 'brain drain', benepisyo ng frontliners nais tugunan ni Herbosa. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa)~~
 - ~~9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)~~
-- 10 -
+- 10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone
+- 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10)
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODcxODAwMSw5NDA0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbNjYwNTM3MDQ0LDE0NTg3MTgwMDEsOTQwND
+Q0Nzg5XX0=
 -->
