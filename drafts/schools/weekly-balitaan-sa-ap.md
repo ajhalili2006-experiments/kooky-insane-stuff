@@ -58,7 +58,7 @@ TBD
 - 31 - https://news.abs-cbn.com/spotlight/05/30/23/calls-to-scrap-religious-feelings-law-renewed-after-case-vs-priest (2023-05-31)
 - June 1 - https://www.spectrumnews.org/news/debate-remains-over-changes-in-dsm-5-a-decade-on/ (2023-05-31)
 - 2
-- 3 - https://news.abs-cbn.com/news/06/03/23/remulla-lawyers-offered-degamo-slay-suspects-p8m-each
+- 3 - https://news.abs-cbn.com/news/06/03/23/remulla-lawyers-offered-degamo-slay-suspects-p8m-each / https://news.abs-cbn.com/news/06/03/23/govt-food-stamp-program-needs-p40-billion-dswd / https://news.abs-cbn.com/video/news/06/02/23/kompetisyon-sa-pagpasok-sa-state-universities-mahigpit-ched
 - 4 - [https://news.abs-cbn.com/news/06/04/23/up-says-upcat-2024-a-success](https://news.abs-cbn.com/news/06/04/23/up-says-upcat-2024-a-success) / [https://news.abs-cbn.com/news/multimedia/photo/06/04/23/cyclists-climate-activists-pedal-for-planet](https://news.abs-cbn.com/news/multimedia/photo/06/04/23/cyclists-climate-activists-pedal-for-planet)
 - 5 - [https://news.abs-cbn.com/video/news/06/05/23/mobile-library-launched-in-makati](https://news.abs-cbn.com/video/news/06/05/23/mobile-library-launched-in-makati)
 - 6 - [https://news.abs-cbn.com/news/06/05/23/magiging-ugnayan-ng-pnp-comelec-sa-barangay-at-sk-elections-tinalakay](https://news.abs-cbn.com/news/06/05/23/magiging-ugnayan-ng-pnp-comelec-sa-barangay-at-sk-elections-tinalakay) / [https://news.abs-cbn.com/news/06/05/23/court-yet-to-decide-on-de-lima-bail-petition](https://news.abs-cbn.com/news/06/05/23/court-yet-to-decide-on-de-lima-bail-petition) / [https://news.abs-cbn.com/news/06/05/23/pnp-naghahanda-na-para-sa-paparating-na-sona-ni-marcos](https://news.abs-cbn.com/news/06/05/23/pnp-naghahanda-na-para-sa-paparating-na-sona-ni-marcos)
@@ -72,6 +72,6 @@ TBD
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg1Mzc2ODQsMTQ1ODcxODAwMSw5ND
-A0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbNDYyMTgwMDIwLDE0NTg3MTgwMDEsOTQwND
+Q0Nzg5XX0=
 -->
