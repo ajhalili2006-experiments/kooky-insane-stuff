@@ -44,9 +44,9 @@ TBD
 - 17
 - 18
 - 19
-- 20
+- 20 - https://www.rappler.com/nation/blind-passer-michael-morano-dedicates-licensure-examination-professional-teachers-result-late-parents/?utm_medium=Social&utm_source=Twitter&utm_campaign=SocialFlow
 - 21
-- 22
+- 22 - https://www.rappler.com/nation/mindanao/sarangani-bay-festival-returns-may-2023/?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=Social
 - 23 - https://www.rappler.com/newsbreak/iq/events-besetting-manila-heritage-buildings/?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=Social
 - 24 - https://www.rappler.com/nation/mindanao/marawi-compensation-board-signs-compensation-law-implementing-rules-regulations/?utm_source=Twitter&utm_medium=Social&utm_campaign=SocialFlow
 - 25 - 
@@ -72,6 +72,6 @@ TBD
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkwNDIxNDQsMTQ1ODcxODAwMSw5ND
-A0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbLTMyMTgwMzM0MiwtMTQ2OTA0MjE0NCwxND
+U4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
