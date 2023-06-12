@@ -14,8 +14,8 @@ TBD
 
 ## Fourth Quarter
 
-- April 20
-- 21
+- April 20 -
+- 21 -
 - 22 - https://news.abs-cbn.com/video/news/04/22/23/oriental-mindoro-maaaring-makaranas-ng-blackout / https://news.abs-cbn.com/sports/04/22/23/chef-de-mission-optimistic-of-phs-chances-in-para-games
 - 23 - https://news.abs-cbn.com/video/news/04/22/23/libo-libong-muslim-sa-ibat-ibang-parte-ng-bansa-ipinagdiwang-ang-eidl-fitr / https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study
 - 24 - https://news.abs-cbn.com/video/business/04/24/23/mobile-phone-users-dumidiskarte-para-mairehistro-ang-sim
@@ -47,12 +47,12 @@ TBD
 - 20
 - 21
 - 22
-- 23
-- 24
-- 25
+- 23 - https://www.rappler.com/newsbreak/iq/events-besetting-manila-heritage-buildings/?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=Social
+- 24 - https://www.rappler.com/nation/mindanao/marawi-compensation-board-signs-compensation-law-implementing-rules-regulations/?utm_source=Twitter&utm_medium=Social&utm_campaign=SocialFlow
+- 25 - 
 - 26 - https://news.abs-cbn.com/news/05/26/23/at-least-20-malls-to-serve-as-voting-sites-in-bske-comelec
-- 27 -
-- 28 -
+- 27 - https://www.rappler.com/nation/visayas/cebu-artist-bambi-beltran-released-bail-may-27-2023/?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=Social / https://www.rappler.com/nation/luzon/magalong-call-congressional-probe-substandard-public-works-projects/?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=Social
+- 28 - https://www.rappler.com/nation/metro-manila/fresh-graduate-convinces-quezon-city-government-make-new-pedestrian-lanes-katipunan-avenue/?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=Social (2023-05-27)
 - 29 - https://news.abs-cbn.com/video/news/05/29/23/batanes-2-linggo-nang-pinaghahandaan-ang-bagyong-betty
 - 30 - https://news.abs-cbn.com/video/news/05/30/23/senate-cuts-short-interpellation-period-for-maharlika-fund-bill / https://news.abs-cbn.com/video/news/05/30/23/some-senators-want-ngcp-to-refund-collected-fees
 - 31 - https://news.abs-cbn.com/spotlight/05/30/23/calls-to-scrap-religious-feelings-law-renewed-after-case-vs-priest (2023-05-31)
@@ -72,6 +72,6 @@ TBD
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxOTAxNDYsMTQ1ODcxODAwMSw5ND
+eyJoaXN0b3J5IjpbLTE0NjkwNDIxNDQsMTQ1ODcxODAwMSw5ND
 A0NDQ3ODldfQ==
 -->
