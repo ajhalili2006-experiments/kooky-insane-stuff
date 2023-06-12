@@ -14,8 +14,8 @@ TBD
 
 ## Fourth Quarter
 
-- April 20 -
-- 21 -
+- April 20 - https://news.abs-cbn.com/news/04/19/23/ca-upholds-maia-deguitos-money-laundering-conviction
+- 21 - https://news.abs-cbn.com/business/04/21/23/twitters-blue-ticks-start-vanishing / https://news.abs-cbn.com/video/news/04/21/23/experts-cooperation-sought-on-alleged-data-breach-of-ph-agencies
 - 22 - https://news.abs-cbn.com/video/news/04/22/23/oriental-mindoro-maaaring-makaranas-ng-blackout / https://news.abs-cbn.com/sports/04/22/23/chef-de-mission-optimistic-of-phs-chances-in-para-games
 - 23 - https://news.abs-cbn.com/video/news/04/22/23/libo-libong-muslim-sa-ibat-ibang-parte-ng-bansa-ipinagdiwang-ang-eidl-fitr / https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study
 - 24 - https://news.abs-cbn.com/video/business/04/24/23/mobile-phone-users-dumidiskarte-para-mairehistro-ang-sim
@@ -72,6 +72,6 @@ TBD
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcwODUzNDMsLTE0NjkwNDIxNDQsMT
-Q1ODcxODAwMSw5NDA0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbNzQ4MDU1NDU5LC0xNjM3MDg1MzQzLC0xND
+Y5MDQyMTQ0LDE0NTg3MTgwMDEsOTQwNDQ0Nzg5XX0=
 -->
