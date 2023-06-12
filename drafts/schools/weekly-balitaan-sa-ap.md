@@ -44,15 +44,15 @@ TBD
 - 17
 - 18
 - 19
-- 20 - https://www.rappler.com/nation/blind-passer-michael-morano-dedicates-licensure-examination-professional-teachers-result-late-parents/?utm_medium=Social&utm_source=Twitter&utm_campaign=SocialFlow
-- 21
-- 22 - https://www.rappler.com/nation/mindanao/sarangani-bay-festival-returns-may-2023/?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=Social
-- 23 - https://www.rappler.com/newsbreak/iq/events-besetting-manila-heritage-buildings/?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=Social
-- 24 - https://www.rappler.com/nation/mindanao/marawi-compensation-board-signs-compensation-law-implementing-rules-regulations/?utm_source=Twitter&utm_medium=Social&utm_campaign=SocialFlow
-- 25 - 
+- 20 - https://www.rappler.com/nation/blind-passer-michael-morano-dedicates-licensure-examination-professional-teachers-result-late-parents/
+- 21 - https://newsinfo.inquirer.net/1772088/selling-sim-e-wallet-accounts-makes-you-prey-to-scammers?utm_medium=Social&utm_source=Twitter#Echobox=1684621122
+- 22 - https://www.rappler.com/nation/mindanao/sarangani-bay-festival-returns-may-2023/
+- 23 - https://www.rappler.com/newsbreak/iq/events-besetting-manila-heritage-buildings/
+- 24 - https://www.rappler.com/nation/mindanao/marawi-compensation-board-signs-compensation-law-implementing-rules-regulations
+- 25 - https://www.rappler.com/technology/features/profile-linda-yaccarino-twitter-new-ceo/ (2023-05-24)
 - 26 - https://news.abs-cbn.com/news/05/26/23/at-least-20-malls-to-serve-as-voting-sites-in-bske-comelec
-- 27 - https://www.rappler.com/nation/visayas/cebu-artist-bambi-beltran-released-bail-may-27-2023/?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=Social / https://www.rappler.com/nation/luzon/magalong-call-congressional-probe-substandard-public-works-projects/?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=Social
-- 28 - https://www.rappler.com/nation/metro-manila/fresh-graduate-convinces-quezon-city-government-make-new-pedestrian-lanes-katipunan-avenue/?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=Social (2023-05-27)
+- 27 - https://www.rappler.com/nation/visayas/cebu-artist-bambi-beltran-released-bail-may-27-2023// https://www.rappler.com/nation/luzon/magalong-call-congressional-probe-substandard-public-works-projects/
+- 28 - https://www.rappler.com/nation/metro-manila/fresh-graduate-convinces-quezon-city-government-make-new-pedestrian-lanes-katipunan-avenue/ (2023-05-27)
 - 29 - https://news.abs-cbn.com/video/news/05/29/23/batanes-2-linggo-nang-pinaghahandaan-ang-bagyong-betty
 - 30 - https://news.abs-cbn.com/video/news/05/30/23/senate-cuts-short-interpellation-period-for-maharlika-fund-bill / https://news.abs-cbn.com/video/news/05/30/23/some-senators-want-ngcp-to-refund-collected-fees
 - 31 - https://news.abs-cbn.com/spotlight/05/30/23/calls-to-scrap-religious-feelings-law-renewed-after-case-vs-priest (2023-05-31)
@@ -67,11 +67,11 @@ TBD
 - ~~9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)~~
 - 10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10)
-- 12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=Social
+- 12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTgwMzM0MiwtMTQ2OTA0MjE0NCwxND
-U4NzE4MDAxLDk0MDQ0NDc4OV19
+eyJoaXN0b3J5IjpbLTE2MzcwODUzNDMsLTE0NjkwNDIxNDQsMT
+Q1ODcxODAwMSw5NDA0NDQ3ODldfQ==
 -->
