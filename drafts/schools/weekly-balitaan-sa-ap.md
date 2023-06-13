@@ -8,6 +8,8 @@ TBD
 
 ## Second Quarter
 
+> Collected from my internal issue trakcer at Jetbrains Spac.e
+
 -   19 - [https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon](https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon)
 -   20 - [https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns](https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns)
 - 21 - [https://news.abs-cbn.com/news/11/21/22/senators-seek-transparency-in-covid-vaccine-procurement](https://news.abs-cbn.com/news/11/21/22/senators-seek-transparency-in-covid-vaccine-procurement)
@@ -17,7 +19,42 @@ TBD
 - 25 - [https://www.rappler.com/business/philippines-wealth-gap-widens-despite-lowered-poverty-world-bank-report/](https://www.rappler.com/business/philippines-wealth-gap-widens-despite-lowered-poverty-world-bank-report/)
 -   26 - [https://news.abs-cbn.com/news/11/26/22/consumers-cut-expenses-as-prices-of-noche-buena-items-soar](https://news.abs-cbn.com/news/11/26/22/consumers-cut-expenses-as-prices-of-noche-buena-items-soar)
 -   27 - [https://news.abs-cbn.com/news/11/27/22/quezon-memorial-circle-now-a-child-labor-free-zone-mayor](https://news.abs-cbn.com/news/11/27/22/quezon-memorial-circle-now-a-child-labor-free-zone-mayor)
-- 
+-   14 - [https://www.gmanetwork.com/news/topstories/nation/854512/marcos-pushes-for-ph-eu-free-trade-amid-covid-19-recovery/story/](https://www.gmanetwork.com/news/topstories/nation/854512/marcos-pushes-for-ph-eu-free-trade-amid-covid-19-recovery/story/)
+-   15 - [https://www.gmanetwork.com/news/money/companies/854521/cybersecurity-gaps-could-jeopardize-75-of-philippines-bpo-market-usaid-report/story/](https://www.gmanetwork.com/news/money/companies/854521/cybersecurity-gaps-could-jeopardize-75-of-philippines-bpo-market-usaid-report/story/)
+-   16 - [https://www.gmanetwork.com/news/topstories/metro/854724/deped-exec-wants-nbi-to-probe-maternity-pay-scam/story/](https://www.gmanetwork.com/news/topstories/metro/854724/deped-exec-wants-nbi-to-probe-maternity-pay-scam/story/)
+-   17 - [https://www.gmanetwork.com/news/money/economy/854726/pldt-investigating-p48-billion-budget-overrun-reorganizing-management/story/](https://www.gmanetwork.com/news/money/economy/854726/pldt-investigating-p48-billion-budget-overrun-reorganizing-management/story/)
+-   18 - [https://www.gmanetwork.com/news/topstories/world/854747/russia-fires-scores-of-missiles-in-one-of-its-biggest-attacks-on-ukraine/story/](https://www.gmanetwork.com/news/topstories/world/854747/russia-fires-scores-of-missiles-in-one-of-its-biggest-attacks-on-ukraine/story/)
+-   19 - [https://www.gmanetwork.com/news/topstories/regions/855042/graft-court-convicts-ex-lapu-lapu-mayor-12-others-over-p83-million-lamp-post-project/story/](https://www.gmanetwork.com/news/topstories/regions/855042/graft-court-convicts-ex-lapu-lapu-mayor-12-others-over-p83-million-lamp-post-project/story/)
+-   20 - [https://www.gmanetwork.com/news/topstories/world/854973/north-korea-says-sanctions-won-t-stop-its-missile-development-report/story/](https://www.gmanetwork.com/news/topstories/world/854973/north-korea-says-sanctions-won-t-stop-its-missile-development-report/story/)
+-   21 - [https://www.gmanetwork.com/news/money/companies/855063/twitter-hit-with-dozens-of-legal-complaints-by-ex-employees/story/](https://www.gmanetwork.com/news/money/companies/855063/twitter-hit-with-dozens-of-legal-complaints-by-ex-employees/story/)
+-   22 - [https://news.abs-cbn.com/spotlight/12/22/22/give-my-youth-back-students-return-to-forefront-of-china-protests](https://news.abs-cbn.com/spotlight/12/22/22/give-my-youth-back-students-return-to-forefront-of-china-protests)
+-   23 - [https://news.abs-cbn.com/spotlight/12/22/22/fireworks-related-injuries-declining-in-ph-since-2017](https://news.abs-cbn.com/spotlight/12/22/22/fireworks-related-injuries-declining-in-ph-since-2017) (originally posted on Dec 22, conflicted with existing selection and moved here)
+-   24 - [https://www.rappler.com/technology/social-media/twitter-restores-suicide-prevention-feature/](https://www.rappler.com/technology/social-media/twitter-restores-suicide-prevention-feature/)
+-   25 - [https://www.rappler.com/world/global-affairs/pope-francis-christmas-blessing-message-peace-2022/](https://www.rappler.com/world/global-affairs/pope-francis-christmas-blessing-message-peace-2022/)
+-   26 - [https://www.rappler.com/newsbreak/in-depth/calls-for-k-12-review-intensify-ten-years-since-implementation/](https://www.rappler.com/newsbreak/in-depth/calls-for-k-12-review-intensify-ten-years-since-implementation/) (originally posted on Dec 24, conflicted with existing selection and moved here)
+-   27 - [https://www.rappler.com/nation/malacanang-taps-edu-punay-dswd-officer-in-charge-december-2022/](https://www.rappler.com/nation/malacanang-taps-edu-punay-dswd-officer-in-charge-december-2022/) or [https://news.abs-cbn.com/news/12/27/22/sim-card-registration-starts-some-users-report-difficulties](https://news.abs-cbn.com/news/12/27/22/sim-card-registration-starts-some-users-report-difficulties)
+-   28 - [https://www.rappler.com/technology/innovations/filipino-scientist-develops-nipa-based-alternative-fuel-stove-prototype/](https://www.rappler.com/technology/innovations/filipino-scientist-develops-nipa-based-alternative-fuel-stove-prototype/) or [https://news.abs-cbn.com/video/spotlight/12/28/22/sim-card-registration-requirements-di-pwedeng-dagdagan-sa-batas](https://news.abs-cbn.com/video/spotlight/12/28/22/sim-card-registration-requirements-di-pwedeng-dagdagan-sa-batas)
+-   29 - [https://news.abs-cbn.com/news/12/28/22/sim-registration-will-not-prevent-text-scams-spams](https://news.abs-cbn.com/news/12/28/22/sim-registration-will-not-prevent-text-scams-spams) (originally posted on Dec 28, conflicted with existing selection and moved here)
+-   30 - [https://www.gmanetwork.com/news/money/companies/855805/philippine-financial-markets-close-2022-on-negative-note/story/](https://www.gmanetwork.com/news/money/companies/855805/philippine-financial-markets-close-2022-on-negative-note/story/)
+-   31 - [https://www.gmanetwork.com/news/money/economy/855973/kadiwa-stores-not-a-long-term-solution-to-soaring-onion-produce-prices-imee-marcos/story/?just_in](https://www.gmanetwork.com/news/money/economy/855973/kadiwa-stores-not-a-long-term-solution-to-soaring-onion-produce-prices-imee-marcos/story/?just_in)
+-   Jan 1 - [https://www.gmanetwork.com/news/topstories/nation/855978/smoke-from-fireworks-poses-health-risks-expert/story/](https://www.gmanetwork.com/news/topstories/nation/855978/smoke-from-fireworks-poses-health-risks-expert/story/)
+-   Jan 2 - [https://news.abs-cbn.com/video/news/01/02/23/goodbye-libreng-sakay-edsa-bus-carousel-may-bayad-na-ulit](https://news.abs-cbn.com/video/news/01/02/23/goodbye-libreng-sakay-edsa-bus-carousel-may-bayad-na-ulit)
+-   Jan 3 - [https://news.abs-cbn.com/news/01/03/23/comelec-extension-of-voter-registration-unlikely](https://news.abs-cbn.com/news/01/03/23/comelec-extension-of-voter-registration-unlikely)
+-   jan 4 - [https://news.abs-cbn.com/video/spotlight/01/03/23/should-airline-passengers-file-class-suit-over-air-traffic-system-mess](https://news.abs-cbn.com/video/spotlight/01/03/23/should-airline-passengers-file-class-suit-over-air-traffic-system-mess)
+-   jan 5 - [https://news.abs-cbn.com/video/news/01/04/23/ex-ph-transport-official-air-traffic-crisis-due-to-negligence](https://news.abs-cbn.com/video/news/01/04/23/ex-ph-transport-official-air-traffic-crisis-due-to-negligence)
+-   jan 6 - [https://www.gmanetwork.com/news/topstories/nation/856527/over-14m-sim-cards-now-registered-ntc/story/](https://www.gmanetwork.com/news/topstories/nation/856527/over-14m-sim-cards-now-registered-ntc/story/)
+-   Jan 7 - [https://newsinfo.inquirer.net/1713558/ltfrb-seeks-p1-28b-from-dbm-to-revive-libreng-sakay](https://newsinfo.inquirer.net/1713558/ltfrb-seeks-p1-28b-from-dbm-to-revive-libreng-sakay)
+-   Jan 8 - [https://www.rappler.com/technology/social-media/twitter-further-cuts-staff-overseeing-global-content-moderation-january-2023/](https://www.rappler.com/technology/social-media/twitter-further-cuts-staff-overseeing-global-content-moderation-january-2023/)
+-   13 - [https://news.abs-cbn.com/overseas/01/13/23/biden-on-defensive-over-classified-documents](https://news.abs-cbn.com/overseas/01/13/23/biden-on-defensive-over-classified-documents)
+-   14 - [https://www.gmanetwork.com/news/pinoyabroad/dispatch/857433/ople-sends-dmw-officials-to-check-on-distressed-kuwait-ofws/story/](https://www.gmanetwork.com/news/pinoyabroad/dispatch/857433/ople-sends-dmw-officials-to-check-on-distressed-kuwait-ofws/story/)
+-   15 - [https://www.gmanetwork.com/news/money/companies/857446/advisory-body-urges-marcos-to-institutionalize-policies-on-streamlining-permits-for-telco-infra/story/?just_in](https://www.gmanetwork.com/news/money/companies/857446/advisory-body-urges-marcos-to-institutionalize-policies-on-streamlining-permits-for-telco-infra/story/?just_in)
+-   16 - [https://news.abs-cbn.com/news/01/16/23/pinagsamantalahan-local-farmers-forced-to-sell-onions-for-p8-p15kilo](https://news.abs-cbn.com/news/01/16/23/pinagsamantalahan-local-farmers-forced-to-sell-onions-for-p8-p15kilo)
+-   17 - [https://news.abs-cbn.com/news/01/16/23/missing-devt-workers-in-cebu-found-allege-abduction](https://news.abs-cbn.com/news/01/16/23/missing-devt-workers-in-cebu-found-allege-abduction)
+-   18 - [https://news.abs-cbn.com/video/news/01/18/23/doj-panel-dismisses-murder-complaint-vs-17-cops-over-2021-bloody-sunday-raids](https://news.abs-cbn.com/video/news/01/18/23/doj-panel-dismisses-murder-complaint-vs-17-cops-over-2021-bloody-sunday-raids)
+-   19 - [https://newsinfo.inquirer.net/1718691/imee-marcos-tells-police-to-stop-alleged-harassment-of-onion-farmers](https://newsinfo.inquirer.net/1718691/imee-marcos-tells-police-to-stop-alleged-harassment-of-onion-farmers)
+-   20 - [https://newsinfo.inquirer.net/1718721/slex-tax-refund-from-makati-lgu](https://newsinfo.inquirer.net/1718721/slex-tax-refund-from-makati-lgu) / [https://newsinfo.inquirer.net/1718784/baguio-activist-seeks-cyberlibel-retrial](https://newsinfo.inquirer.net/1718784/baguio-activist-seeks-cyberlibel-retrial)
+-   21 - [https://business.inquirer.net/383431/marcos-says-wef-mission-accomplished-explains-large-delegation-size?utm_source=gallery&utm_medium=direct](https://business.inquirer.net/383431/marcos-says-wef-mission-accomplished-explains-large-delegation-size?utm_source=gallery&utm_medium=direct)
+
 ## Third Quarter
 
 
@@ -102,7 +139,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkxODI2MDQsMTc2OTI4NTE2MiwxNT
+eyJoaXN0b3J5IjpbLTExOTAzMzgxMzAsMTc2OTI4NTE2MiwxNT
 cxMTkxMTMsLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0
 NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0Mj
 A2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5
