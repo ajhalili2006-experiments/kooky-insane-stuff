@@ -69,7 +69,7 @@ TBD
 - ~~9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)~~
 - 10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10)
-- 12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/
+- ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13)
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13)
@@ -90,8 +90,8 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODQyNTQ3LC0yMDQzMjQyNTA5LDQyMD
-Y0NzI2NiwxMDk5MTYyMDA2LDc2NTI0MzI5OSw3NDgwNTU0NTks
-LTE2MzcwODUzNDMsLTE0NjkwNDIxNDQsMTQ1ODcxODAwMSw5ND
-A0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0Mz
+I0MjUwOSw0MjA2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTks
+NzQ4MDU1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NT
+g3MTgwMDEsOTQwNDQ0Nzg5XX0=
 -->
