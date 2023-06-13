@@ -8,8 +8,16 @@ TBD
 
 ## Second Quarter
 
-TBD
-
+-   19 - [https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon](https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon)
+-   20 - [https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns](https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns)
+- 21 - [https://news.abs-cbn.com/news/11/21/22/senators-seek-transparency-in-covid-vaccine-procurement](https://news.abs-cbn.com/news/11/21/22/senators-seek-transparency-in-covid-vaccine-procurement)
+-   22 - [https://newsinfo.inquirer.net/1696507/maguindanao-massacre-the-wound-of-ph-impunity-that-will-never-heal](https://newsinfo.inquirer.net/1696507/maguindanao-massacre-the-wound-of-ph-impunity-that-will-never-heal)
+-   23 - [https://news.abs-cbn.com/news/11/23/22/senators-criticize-pagcors-plan-to-open-more-casinos-roadmap-for-pogos](https://news.abs-cbn.com/news/11/23/22/senators-criticize-pagcors-plan-to-open-more-casinos-roadmap-for-pogos)
+-   24 - [https://www.rappler.com/nation/philippines-sends-note-verbale-china-debris-seizure-sea-november-2022/](https://www.rappler.com/nation/philippines-sends-note-verbale-china-debris-seizure-sea-november-2022/)
+- 25 - [https://www.rappler.com/business/philippines-wealth-gap-widens-despite-lowered-poverty-world-bank-report/](https://www.rappler.com/business/philippines-wealth-gap-widens-despite-lowered-poverty-world-bank-report/)
+-   26 - [https://news.abs-cbn.com/news/11/26/22/consumers-cut-expenses-as-prices-of-noche-buena-items-soar](https://news.abs-cbn.com/news/11/26/22/consumers-cut-expenses-as-prices-of-noche-buena-items-soar)
+-   27 - [https://news.abs-cbn.com/news/11/27/22/quezon-memorial-circle-now-a-child-labor-free-zone-mayor](https://news.abs-cbn.com/news/11/27/22/quezon-memorial-circle-now-a-child-labor-free-zone-mayor)
+- 
 ## Third Quarter
 
 
@@ -94,9 +102,10 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTI4NTE2MiwxNTcxMTkxMTMsLTE1Mj
-kyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0NTksODYyNTk3MTA3
-LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0MjA2NDcyNjYsMTA5OT
-E2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5LC0xNjM3MDg1MzQz
-LC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOTQwNDQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbLTE1MDkxODI2MDQsMTc2OTI4NTE2MiwxNT
+cxMTkxMTMsLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0
+NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0Mj
+A2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5
+LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOT
+QwNDQ0Nzg5XX0=
 -->
