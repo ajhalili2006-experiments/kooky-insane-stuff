@@ -67,7 +67,7 @@ TBD
 - 7 - [https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan](https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan) (2023-06-04) / https://news.abs-cbn.com/news/06/07/23/magnitude-42-earthquake-jolts-camarines-sur
 - 8 - [https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos](https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos) (2023-06-03, not selected) / ~~https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa (ABS-CBN News. (2023a, June 7). Problema sa 'brain drain', benepisyo ng frontliners nais tugunan ni Herbosa. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa)~~
 - ~~9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)~~
-- 10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone
+- ~~10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone~~
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10)
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel
@@ -90,8 +90,8 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0Mz
-I0MjUwOSw0MjA2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTks
-NzQ4MDU1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NT
-g3MTgwMDEsOTQwNDQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4ND
+I1NDcsLTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYs
+NzY1MjQzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OT
+A0MjE0NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
