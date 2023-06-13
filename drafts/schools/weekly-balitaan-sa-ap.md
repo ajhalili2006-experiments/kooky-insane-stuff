@@ -70,8 +70,8 @@ TBD
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10)
 - 12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel
-- 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas
-- 15 - 
+- 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13)
+- 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13)
 - 16
 - 17
 - 18
@@ -89,7 +89,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTc5OTk4OCwxMDk5MTYyMDA2LDc2NT
-I0MzI5OSw3NDgwNTU0NTksLTE2MzcwODUzNDMsLTE0NjkwNDIx
-NDQsMTQ1ODcxODAwMSw5NDA0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbNzY2MzE0MzkyLDEwOTkxNjIwMDYsNzY1Mj
+QzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0
+NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
