@@ -16,9 +16,9 @@ TBD
 
 ## Fourth Quarter
 
-- April 20 - https://news.abs-cbn.com/news/04/19/23/ca-upholds-maia-deguitos-money-laundering-conviction
-- 21 - https://news.abs-cbn.com/business/04/21/23/twitters-blue-ticks-start-vanishing / https://news.abs-cbn.com/video/news/04/21/23/experts-cooperation-sought-on-alleged-data-breach-of-ph-agencies
-- 22 - https://news.abs-cbn.com/video/news/04/22/23/oriental-mindoro-maaaring-makaranas-ng-blackout / https://news.abs-cbn.com/sports/04/22/23/chef-de-mission-optimistic-of-phs-chances-in-para-games
+- ~~April 20 - https://news.abs-cbn.com/news/04/19/23/ca-upholds-maia-deguitos-money-laundering-conviction~~
+- ~~21 - https://news.abs-cbn.com/business/04/21/23/twitters-blue-ticks-start-vanishing~~ / https://news.abs-cbn.com/video/news/04/21/23/experts-cooperation-sought-on-alleged-data-breach-of-ph-agencies
+- ~~22 - https://news.abs-cbn.com/video/news/04/22/23/oriental-mindoro-maaaring-makaranas-ng-blackout~~ / https://news.abs-cbn.com/sports/04/22/23/chef-de-mission-optimistic-of-phs-chances-in-para-games
 - 23 - https://news.abs-cbn.com/video/news/04/22/23/libo-libong-muslim-sa-ibat-ibang-parte-ng-bansa-ipinagdiwang-ang-eidl-fitr / https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study
 - 24 - https://news.abs-cbn.com/video/business/04/24/23/mobile-phone-users-dumidiskarte-para-mairehistro-ang-sim
 - 25 - https://news.abs-cbn.com/classified-odd/04/25/23/80-goldfish-na-ninakaw-sa-germany-isinauli-din
@@ -90,7 +90,8 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOT
-kxNjIwMDYsNzY1MjQzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0
-MywtMTQ2OTA0MjE0NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
+eyJoaXN0b3J5IjpbMTM2ODQyNTQ3LC0yMDQzMjQyNTA5LDQyMD
+Y0NzI2NiwxMDk5MTYyMDA2LDc2NTI0MzI5OSw3NDgwNTU0NTks
+LTE2MzcwODUzNDMsLTE0NjkwNDIxNDQsMTQ1ODcxODAwMSw5ND
+A0NDQ3ODldfQ==
 -->
