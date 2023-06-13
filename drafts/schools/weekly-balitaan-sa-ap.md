@@ -57,7 +57,8 @@ TBD
 
 ## Third Quarter
 
-
+- Jan 26 - [https://news.abs-cbn.com/video/news/01/26/23/imported-na-sibuyas-binebenta-na-sa-mga-palengke](https://news.abs-cbn.com/video/news/01/26/23/imported-na-sibuyas-binebenta-na-sa-mga-palengke) 27 - [https://news.abs-cbn.com/overseas/01/27/23/2-years-after-myanmar-coup-un-says-situation-catastrophic](https://news.abs-cbn.com/overseas/01/27/23/2-years-after-myanmar-coup-un-says-situation-catastrophic) 28 - [https://news.abs-cbn.com/overseas/01/27/23/in-a-first-german-parliament-spotlights-nazis-lgbtq-victims](https://l.messenger.com/l.php?u=https%3A%2F%2Fnews.abs-cbn.com%2Foverseas%2F01%2F27%2F23%2Fin-a-first-german-parliament-spotlights-nazis-lgbtq-victims&h=AT3uBZel4ZqodTmFh8zLccEukjLDTsawuk0FrGz7SkgKHPbx8J6E8oyL45NXtDp5c0QQcEGnUEnRGmKFFl3Sk8JrOidOD9q77ATbFJK0tKhZNMZE6Hpr4Fi-L4BZlZqc3ktc6A) (27) 29 - [https://news.abs-cbn.com/video/news/01/29/23/mga-alagang-aso-pusa-maaaring-isakay-sa-lrt-2-simula-pebrero-1](https://l.messenger.com/l.php?u=https%3A%2F%2Fnews.abs-cbn.com%2Fvideo%2Fnews%2F01%2F29%2F23%2Fmga-alagang-aso-pusa-maaaring-isakay-sa-lrt-2-simula-pebrero-1&h=AT3uBZel4ZqodTmFh8zLccEukjLDTsawuk0FrGz7SkgKHPbx8J6E8oyL45NXtDp5c0QQcEGnUEnRGmKFFl3Sk8JrOidOD9q77ATbFJK0tKhZNMZE6Hpr4Fi-L4BZlZqc3ktc6A) 30 - [https://news.abs-cbn.com/video/news/01/29/23/lockdown-posibleng-sanhi-ng-marahas-na-kilos-ng-ilang-estudyante-eskperto](https://news.abs-cbn.com/video/news/01/29/23/lockdown-posibleng-sanhi-ng-marahas-na-kilos-ng-ilang-estudyante-eskperto) (29) 31 - [https://news.abs-cbn.com/spotlight/01/31/23/number-of-students-suffering-from-mental-health-issues-growing](https://l.messenger.com/l.php?u=https%3A%2F%2Fnews.abs-cbn.com%2Fspotlight%2F01%2F31%2F23%2Fnumber-of-students-suffering-from-mental-health-issues-growing&h=AT3uBZel4ZqodTmFh8zLccEukjLDTsawuk0FrGz7SkgKHPbx8J6E8oyL45NXtDp5c0QQcEGnUEnRGmKFFl3Sk8JrOidOD9q77ATbFJK0tKhZNMZE6Hpr4Fi-L4BZlZqc3ktc6A) Feb 01 - [https://news.abs-cbn.com/video/spotlight/02/01/23/learning-gap-ng-mga-bata-sa-bansa-nakakabahala-grupo](https://l.messenger.com/l.php?u=https%3A%2F%2Fnews.abs-cbn.com%2Fvideo%2Fspotlight%2F02%2F01%2F23%2Flearning-gap-ng-mga-bata-sa-bansa-nakakabahala-grupo&h=AT3uBZel4ZqodTmFh8zLccEukjLDTsawuk0FrGz7SkgKHPbx8J6E8oyL45NXtDp5c0QQcEGnUEnRGmKFFl3Sk8JrOidOD9q77ATbFJK0tKhZNMZE6Hpr4Fi-L4BZlZqc3ktc6A) 02 - [https://www.gmanetwork.com/news/topstories/nation/859481/unfpa-seeks-comprehensive-sexuality-education-for-ages-5-19-to-curb-teen-pregnancy/story/](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.gmanetwork.com%2Fnews%2Ftopstories%2Fnation%2F859481%2Funfpa-seeks-comprehensive-sexuality-education-for-ages-5-19-to-curb-teen-pregnancy%2Fstory%2F&h=AT3uBZel4ZqodTmFh8zLccEukjLDTsawuk0FrGz7SkgKHPbx8J6E8oyL45NXtDp5c0QQcEGnUEnRGmKFFl3Sk8JrOidOD9q77ATbFJK0tKhZNMZE6Hpr4Fi-L4BZlZqc3ktc6A) 03 - [https://www.gmanetwork.com/news/scitech/science/859529/colombian-judge-uses-chatgpt-in-ruling/story/](https://www.gmanetwork.com/news/scitech/science/859529/colombian-judge-uses-chatgpt-in-ruling/story/) / [https://www.gmanetwork.com/news/topstories/regions/859524/masungi-needs-free-prior-and-informed-consent-from-ips-to-operate-ncip/story/](https://www.gmanetwork.com/news/topstories/regions/859524/masungi-needs-free-prior-and-informed-consent-from-ips-to-operate-ncip/story/) 04 - [https://www.rappler.com/entertainment/music/music-scene-raising-funds-parokya-ni-edgar-guitarist-gab-chee-kee/](https://www.rappler.com/entertainment/music/music-scene-raising-funds-parokya-ni-edgar-guitarist-gab-chee-kee/) 05 - [https://www.rappler.com/nation/luzon/benguet-vlogger-pleads-guilty-safe-spaces-act/](https://www.rappler.com/nation/luzon/benguet-vlogger-pleads-guilty-safe-spaces-act/) (also 4
+- 16 - [https://www.rappler.com/business/senators-grill-maharlika-investment-fund-backers-senate-hearing-february-15-2023/](https://www.rappler.com/business/senators-grill-maharlika-investment-fund-backers-senate-hearing-february-15-2023/)
 - 17 - [https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan](https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan)
 - 18 - [https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility](https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility)
 - 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
@@ -139,10 +140,10 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ5NjY3NDgsLTExOTAzMzgxMzAsMT
-c2OTI4NTE2MiwxNTcxMTkxMTMsLTE1MjkyMjQ2ODAsMTA1ODQ0
-OTA0NCwxNjY5NjE0NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMj
-A0MzI0MjUwOSw0MjA2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMy
-OTksNzQ4MDU1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LD
-E0NTg3MTgwMDEsOTQwNDQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbMjE5NTc2NjA5LC0xMzI0OTY2NzQ4LC0xMT
+kwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0
+NjgwLDEwNTg0NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMz
+Y4NDI1NDcsLTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIw
+MDYsNzY1MjQzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMT
+Q2OTA0MjE0NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
