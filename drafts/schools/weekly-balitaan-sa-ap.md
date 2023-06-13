@@ -1,3 +1,4 @@
+# Weekly Balitaan sa AP
 
 > **Note to self**: Maghukay ka na ng sariling libingan sa clearance. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
 
@@ -89,7 +90,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1Mj
-QzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0
-NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
+eyJoaXN0b3J5IjpbLTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOT
+kxNjIwMDYsNzY1MjQzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0
+MywtMTQ2OTA0MjE0NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
