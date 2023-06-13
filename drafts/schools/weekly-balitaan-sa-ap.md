@@ -35,8 +35,8 @@ TBD
 - 7 https://news.abs-cbn.com/news/05/06/23/more-than-1000-rescued-in-pampanga-scam-call-center (2023-05-06)
 - 8 - https://news.abs-cbn.com/spotlight/05/07/23/hollywood-strikes-inflamed-by-claim-ai-could-do-writers-jobs (2023-05-07) [TECH / SHOWBIZ]
 - 9 - https://news.abs-cbn.com/news/04/24/23/up-pioneers-study-seek-cure-for-rugby-abuse (2023-04-23)
-- 10 - 
-- 11 -
+- 10 - https://news.abs-cbn.com/news/05/10/23/ph-to-continue-to-ask-pardon-for-mary-jane-veloso-marcos
+- 11 - https://news.abs-cbn.com/news/05/11/23/mambabatas-iminungkahi-ang-digital-drivers-license (2023-05-11)
 - 12 - https://news.abs-cbn.com/news/05/12/23/who-declares-mpox-no-longer-a-global-health-emergency
 - 13 - https://news.abs-cbn.com/video/news/05/12/23/dnd-doh-at-da-dapat-may-full-time-secretaries-na (2023-05-12)
 - 14 -
@@ -74,7 +74,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc1NzE3MTUsNzY1MjQzMjk5LDc0OD
-A1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0NCwxNDU4NzE4
-MDAxLDk0MDQ0NDc4OV19
+eyJoaXN0b3J5IjpbLTkzOTEwOTU4OCw3NjUyNDMyOTksNzQ4MD
+U1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgw
+MDEsOTQwNDQ0Nzg5XX0=
 -->
