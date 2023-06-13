@@ -43,8 +43,8 @@ TBD
 - 15 - https://news.abs-cbn.com/news/05/15/23/comelec-sinisingil-ng-p153-m-para-sa-vote-pilipinas-campaign-noong-2022
 - 16 - https://news.abs-cbn.com/sports/05/16/23/poc-chief-expects-team-ph-to-surpass-hanoi-medal-haul
 - 17 - https://news.abs-cbn.com/business/05/15/23/senators-seek-review-of-ngcp-contract-with-chinese-company (2023-05-15)
-- 18 -
-- 19 -
+- 18 - https://news.abs-cbn.com/video/news/05/18/23/covid-19-patients-sa-pgh-dumarami
+- 19 - https://news.abs-cbn.com/news/05/19/23/new-tourism-slogan-must-be-aligned-with-ph-brand-dot
 - 20 - https://www.rappler.com/nation/blind-passer-michael-morano-dedicates-licensure-examination-professional-teachers-result-late-parents/
 - 21 - https://newsinfo.inquirer.net/1772088/selling-sim-e-wallet-accounts-makes-you-prey-to-scammers?utm_medium=Social&utm_source=Twitter#Echobox=1684621122
 - 22 - https://www.rappler.com/nation/mindanao/sarangani-bay-festival-returns-may-2023/
@@ -89,7 +89,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTI4NDYyNiwxMDk5MTYyMDA2LDc2NT
-I0MzI5OSw3NDgwNTU0NTksLTE2MzcwODUzNDMsLTE0NjkwNDIx
-NDQsMTQ1ODcxODAwMSw5NDA0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1Mj
+QzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0
+NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
