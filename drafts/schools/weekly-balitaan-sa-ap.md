@@ -12,7 +12,11 @@ TBD
 
 ## Third Quarter
 
-TBD
+
+- 17 - [https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan](https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan)
+- 18 - [https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility](https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility)
+- 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
+- 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
 
 ## Fourth Quarter
 
@@ -90,9 +94,9 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNT
-g0NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcs
-LTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1Mj
-QzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0
-NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
+eyJoaXN0b3J5IjpbMTc2OTI4NTE2MiwxNTcxMTkxMTMsLTE1Mj
+kyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0NTksODYyNTk3MTA3
+LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0MjA2NDcyNjYsMTA5OT
+E2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5LC0xNjM3MDg1MzQz
+LC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOTQwNDQ0Nzg5XX0=
 -->
