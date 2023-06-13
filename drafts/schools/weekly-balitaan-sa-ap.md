@@ -8,9 +8,9 @@ TBD
 
 ## Second Quarter
 
-> Collected from my internal issue trakcer at Jetbrains Spac.e
+> Collected from my internal issue trakcer at Jetbrains Space.
 
--   19 - [https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon](https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon)
+-   November 19 - [https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon](https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon)
 -   20 - [https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns](https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns)
 - 21 - [https://news.abs-cbn.com/news/11/21/22/senators-seek-transparency-in-covid-vaccine-procurement](https://news.abs-cbn.com/news/11/21/22/senators-seek-transparency-in-covid-vaccine-procurement)
 -   22 - [https://newsinfo.inquirer.net/1696507/maguindanao-massacre-the-wound-of-ph-impunity-that-will-never-heal](https://newsinfo.inquirer.net/1696507/maguindanao-massacre-the-wound-of-ph-impunity-that-will-never-heal)
@@ -139,10 +139,10 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAzMzgxMzAsMTc2OTI4NTE2MiwxNT
-cxMTkxMTMsLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0
-NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0Mj
-A2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5
-LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOT
-QwNDQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbLTEzMjQ5NjY3NDgsLTExOTAzMzgxMzAsMT
+c2OTI4NTE2MiwxNTcxMTkxMTMsLTE1MjkyMjQ2ODAsMTA1ODQ0
+OTA0NCwxNjY5NjE0NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMj
+A0MzI0MjUwOSw0MjA2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMy
+OTksNzQ4MDU1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LD
+E0NTg3MTgwMDEsOTQwNDQ0Nzg5XX0=
 -->
