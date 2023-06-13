@@ -68,7 +68,7 @@ TBD
 - 8 - [https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos](https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos) (2023-06-03, not selected) / ~~https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa (ABS-CBN News. (2023a, June 7). Problema sa 'brain drain', benepisyo ng frontliners nais tugunan ni Herbosa. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa)~~
 - ~~9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)~~
 - ~~10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone~~
-- 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10)
+- 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10) / https://news.abs-cbn.com/overseas/06/10/23/children-lost-for-40-days-in-colombian-amazon-found-alive (2023-06-10)
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13)
@@ -90,9 +90,9 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODQ0OTA0NCwxNjY5NjE0NTksODYyNT
-k3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0MjA2NDcyNjYs
-MTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5LC0xNjM3MD
-g1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOTQwNDQ0Nzg5
-XX0=
+eyJoaXN0b3J5IjpbLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNj
+Y5NjE0NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUw
+OSw0MjA2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MD
+U1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgw
+MDEsOTQwNDQ0Nzg5XX0=
 -->
