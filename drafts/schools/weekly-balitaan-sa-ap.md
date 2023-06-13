@@ -35,10 +35,10 @@ TBD
 - 7 https://news.abs-cbn.com/news/05/06/23/more-than-1000-rescued-in-pampanga-scam-call-center (2023-05-06)
 - 8 - https://news.abs-cbn.com/spotlight/05/07/23/hollywood-strikes-inflamed-by-claim-ai-could-do-writers-jobs (2023-05-07) [TECH / SHOWBIZ]
 - 9 - https://news.abs-cbn.com/news/04/24/23/up-pioneers-study-seek-cure-for-rugby-abuse (2023-04-23)
-- 10 -
+- 10 - 
 - 11 -
-- 12 -
-- 13 -
+- 12 - https://news.abs-cbn.com/news/05/12/23/who-declares-mpox-no-longer-a-global-health-emergency
+- 13 - https://news.abs-cbn.com/video/news/05/12/23/dnd-doh-at-da-dapat-may-full-time-secretaries-na (2023-05-12)
 - 14 -
 - 15 -
 - 16
@@ -74,7 +74,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MjQzMjk5LDc0ODA1NTQ1OSwtMTYzNz
-A4NTM0MywtMTQ2OTA0MjE0NCwxNDU4NzE4MDAxLDk0MDQ0NDc4
-OV19
+eyJoaXN0b3J5IjpbLTEwNTc1NzE3MTUsNzY1MjQzMjk5LDc0OD
+A1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0NCwxNDU4NzE4
+MDAxLDk0MDQ0NDc4OV19
 -->
