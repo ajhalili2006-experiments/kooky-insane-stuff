@@ -39,10 +39,10 @@ TBD
 - 11 - https://news.abs-cbn.com/news/05/11/23/mambabatas-iminungkahi-ang-digital-drivers-license (2023-05-11)
 - 12 - https://news.abs-cbn.com/news/05/12/23/who-declares-mpox-no-longer-a-global-health-emergency
 - 13 - https://news.abs-cbn.com/video/news/05/12/23/dnd-doh-at-da-dapat-may-full-time-secretaries-na (2023-05-12)
-- 14 -
-- 15 - 
+- 14 - https://news.abs-cbn.com/sports/05/13/23/arcangels-late-game-heroics-lead-ph-to-ml-gold-medal-match
+- 15 - https://news.abs-cbn.com/news/05/15/23/comelec-sinisingil-ng-p153-m-para-sa-vote-pilipinas-campaign-noong-2022
 - 16 - https://news.abs-cbn.com/sports/05/16/23/poc-chief-expects-team-ph-to-surpass-hanoi-medal-haul
-- 17 -
+- 17 - https://news.abs-cbn.com/business/05/15/23/senators-seek-review-of-ngcp-contract-with-chinese-company (2023-05-15)
 - 18 -
 - 19 -
 - 20 - https://www.rappler.com/nation/blind-passer-michael-morano-dedicates-licensure-examination-professional-teachers-result-late-parents/
@@ -89,7 +89,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU4NDI0MDEsMTA5OTE2MjAwNiw3Nj
-UyNDMyOTksNzQ4MDU1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQy
-MTQ0LDE0NTg3MTgwMDEsOTQwNDQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbLTQzMTI4NDYyNiwxMDk5MTYyMDA2LDc2NT
+I0MzI5OSw3NDgwNTU0NTksLTE2MzcwODUzNDMsLTE0NjkwNDIx
+NDQsMTQ1ODcxODAwMSw5NDA0NDQ3ODldfQ==
 -->
