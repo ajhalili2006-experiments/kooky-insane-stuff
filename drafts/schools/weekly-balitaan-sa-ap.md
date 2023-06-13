@@ -70,7 +70,7 @@ TBD
 - ~~10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone~~
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10) / https://news.abs-cbn.com/overseas/06/10/23/children-lost-for-40-days-in-colombian-amazon-found-alive (2023-06-10)
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
-- 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel
+- 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13)
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13)
 - 16
@@ -90,9 +90,9 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNj
-Y5NjE0NTksODYyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUw
-OSw0MjA2NDcyNjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MD
-U1NDU5LC0xNjM3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgw
-MDEsOTQwNDQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNT
+g0NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcs
+LTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1Mj
+QzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0
+NCwxNDU4NzE4MDAxLDk0MDQ0NDc4OV19
 -->
