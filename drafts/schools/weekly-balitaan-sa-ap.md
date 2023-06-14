@@ -131,9 +131,9 @@ TBD
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10) / https://news.abs-cbn.com/overseas/06/10/23/children-lost-for-40-days-in-colombian-amazon-found-alive (2023-06-10)
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found
-- 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13)
+- 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13)
-- 16
+- 16 - https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr (2023-06-14)
 - 17
 - 18
 - 19
@@ -150,10 +150,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTEyMjk3NywtMTMyNDk2Njc0OCwtMT
-E5MDMzODEzMCwxNzY5Mjg1MTYyLDE1NzExOTExMywtMTUyOTIy
-NDY4MCwxMDU4NDQ5MDQ0LDE2Njk2MTQ1OSw4NjI1OTcxMDcsMT
-M2ODQyNTQ3LC0yMDQzMjQyNTA5LDQyMDY0NzI2NiwxMDk5MTYy
-MDA2LDc2NTI0MzI5OSw3NDgwNTU0NTksLTE2MzcwODUzNDMsLT
-E0NjkwNDIxNDQsMTQ1ODcxODAwMSw5NDA0NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbODU5NTMzODc0LC0yNzkxMjI5NzcsLTEzMj
+Q5NjY3NDgsLTExOTAzMzgxMzAsMTc2OTI4NTE2MiwxNTcxMTkx
+MTMsLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0NTksOD
+YyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0MjA2NDcy
+NjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5LC0xNj
+M3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOTQwNDQ0
+Nzg5XX0=
 -->
