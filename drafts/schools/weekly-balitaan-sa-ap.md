@@ -131,9 +131,9 @@ TBD
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10) / https://news.abs-cbn.com/overseas/06/10/23/children-lost-for-40-days-in-colombian-amazon-found-alive (2023-06-10)
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found
-- 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military
-- 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system
-- 16 - https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr (2023-06-14)
+- 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr~~
+- 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military (2023-06-14)~~
+- 16 -  / https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system
 - 17
 - 18
 - 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let
@@ -150,7 +150,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTAyNjM3NywtMjc5MTIyOTc3LC0xMz
+eyJoaXN0b3J5IjpbLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC0xMz
 I0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5
 MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYxNDU5LD
 g2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMyNDI1MDksNDIwNjQ3
