@@ -21,14 +21,15 @@ And because autistic people tend to have these wiki-like levels of knowledge abo
 ## Contents
 
 * [`character-dossiers`](./character-dossiers) - My personal dossiers of different characters, whenever fictional or real.[^1]
-* [`gitdiff`](./gitdiff)
+* [`drafts`](./drafts) - Public drafts for different things
+* [`gitdiff`](./gitdiff) - Me `git diff`ing stuff and then some, not in form of patches.
 * [`reading-lists`](./reading-lists) - Markdownified version of Medium/Pocket reading lists.
-	* [`obviously-depressing-notes`](./reading-lists/obviously-depressing-notes) - 
+	* [`obviously-depressing-notes`](./reading-lists/obviously-depressing-notes) - You might guess it.
 
 ## See also
 
-* [Personal user manual]
-* [Miraheze wiki] - Technically the MediaWikified version of this
+* [Personal user manual](https://andreijiroh.eu.org/user-manual)
+* [Miraheze wiki](https://wiki.andreijiroh.eu.org) - Technically the MediaWikified version of this
 
 ## Legalese
 
@@ -39,6 +40,6 @@ All Markdown content and original media should be under CC-BY-SA-4.0 unless othe
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not an Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a MacBook if you do, just ask in Keybase for the address once you have shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NjYxMDU1LC0xMzU5MTU3MTYyLC0xMD
-M0MDc5NTAyLDY4MDcyMzYyMV19
+eyJoaXN0b3J5IjpbNjg3MTU2NDQyLDY3NDY2MTA1NSwtMTM1OT
+E1NzE2MiwtMTAzNDA3OTUwMiw2ODA3MjM2MjFdfQ==
 -->
