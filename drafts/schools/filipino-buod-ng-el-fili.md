@@ -9,6 +9,10 @@ This is written based on my personal interpretation and understanding of the nov
 
 Ito ay isinulat batay sa aking personal na interpretasyon at pag-unawa sa nobela.
 
+## Changelog
+
+TBD
+
 ## Kabanata 1
 
 Noong isang umaga ng Disyembre, dumadaan sa Ilog Pasig ang Bapor Tabo papuntang Laguna. Ang barkong ito ay sumisibol sa antas ng pamumuhay ng mga Pilipino, lalo na noong panahon ng mga Kastila. Madalas nasa itaas ang may kapangyarihan ngunit hindi pa rin sila ligtas na sa mga suliranin ng bayan, lalo na kung apektado ang lahat. Sakay nito sina Don Custodio, Ben Zayb, Padre Irene, Padre Salvi, Donya Victorina, Kapitan Heneral at Simoun. Naiinis si Donya Victorina sa mga bangka at mga balsang nakaharang na dinaraan ng barko, lalo na ito ang nagpapabagal nang sobra sa takbo nito. Mas lalong uminit ang ulo niya nang nagawi sa maling dako. Pasimple namang sinagot ang kapitan sa naiinis na tanong niya kung bakit nagawi raw sa maling dako na mababaw ang lugar at maaring masira ang mga pananim kung maglagos di umaano ang barko sa palayan.
@@ -97,7 +101,7 @@ U0NjA4LDQxNjM3OTI4XX0=
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMTUwOTk5OTk3NSwxNzYwNTU1NzQxLC0xOT
-Y4MDU5NTMsLTEwOTkyNDE1NTksMjE5MzA1NzEwLDE1NTI2Mjgy
-MjksNDE2Mzc5MjhdfQ==
+LCJoaXN0b3J5IjpbMTI3MzY4NjM5LDE3NjA1NTU3NDEsLTE5Nj
+gwNTk1MywtMTA5OTI0MTU1OSwyMTkzMDU3MTAsMTU1MjYyODIy
+OSw0MTYzNzkyOF19
 -->
