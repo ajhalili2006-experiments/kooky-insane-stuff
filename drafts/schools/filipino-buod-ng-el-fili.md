@@ -3,10 +3,6 @@
 
 Ang pahina na ito ay parte ng ilan sa mga performance tasks sa Filipino 10 para sa Ikaapat na Markahan, na kung saan kami ay gumawa ng sariling buod sa bawat na kabanata.
 
-<!-- TODO Translate:
-This is written based on my personal interpretation and understanding of the novel. Although I used
--->
-
 Ito ay isinulat batay sa aking personal na interpretasyon at pag-unawa sa nobela.
 
 ## Changelog
@@ -101,7 +97,7 @@ U0NjA4LDQxNjM3OTI4XX0=
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMTI3MzY4NjM5LDE3NjA1NTU3NDEsLTE5Nj
+LCJoaXN0b3J5IjpbODYyMzczOTM0LDE3NjA1NTU3NDEsLTE5Nj
 gwNTk1MywtMTA5OTI0MTU1OSwyMTkzMDU3MTAsMTU1MjYyODIy
 OSw0MTYzNzkyOF19
 -->
