@@ -1,6 +1,6 @@
 # Weekly Balitaan sa AP
 
-> **Note to self**: Maghukay ka na ng sariling libingan sa clearance. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
+> **Note to self**: Maghukay ka na ng sariling libingan sa clearance bandang sa school garden. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
 
 ## First Quarter
 
@@ -130,7 +130,7 @@ TBD
 - ~~10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone~~
 - 11 - https://news.abs-cbn.com/video/news/06/10/23/2-lalaki-huli-sa-sextortion-sa-2-estudyante (2023-06-10) / https://news.abs-cbn.com/overseas/06/10/23/children-lost-for-40-days-in-colombian-amazon-found-alive (2023-06-10)
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
-- 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found
+- 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / ~~https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found~~
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr~~
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military (2023-06-14)~~
 - 16 - ~~https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system~~
@@ -150,11 +150,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgyMTc4MzAsLTkzMDgxNjY2MiwtMj
-c5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3Njky
-ODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwND
-QsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMy
-NDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1MjQzMjk5LD
-c0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0MjE0NCwxNDU4
-NzE4MDAxXX0=
+eyJoaXN0b3J5IjpbNDMyNjg1NjEyLC05MzA4MTY2NjIsLTI3OT
+EyMjk3NywtMTMyNDk2Njc0OCwtMTE5MDMzODEzMCwxNzY5Mjg1
+MTYyLDE1NzExOTExMywtMTUyOTIyNDY4MCwxMDU4NDQ5MDQ0LD
+E2Njk2MTQ1OSw4NjI1OTcxMDcsMTM2ODQyNTQ3LC0yMDQzMjQy
+NTA5LDQyMDY0NzI2NiwxMDk5MTYyMDA2LDc2NTI0MzI5OSw3ND
+gwNTU0NTksLTE2MzcwODUzNDMsLTE0NjkwNDIxNDQsMTQ1ODcx
+ODAwMV19
 -->
