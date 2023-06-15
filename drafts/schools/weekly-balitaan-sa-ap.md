@@ -132,11 +132,11 @@ TBD
 - ~~12 - https://www.rappler.com/entertainment/celebrities/kaladkaren-becomes-first-transgender-philippine-news-anchor-tv5/~~
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military
-- 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13)
+- 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system
 - 16 - https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr (2023-06-14)
 - 17
 - 18
-- 19
+- 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let
 - 20
 - 21
 - 22
@@ -150,11 +150,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NTMzODc0LC0yNzkxMjI5NzcsLTEzMj
-Q5NjY3NDgsLTExOTAzMzgxMzAsMTc2OTI4NTE2MiwxNTcxMTkx
-MTMsLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwxNjY5NjE0NTksOD
-YyNTk3MTA3LDEzNjg0MjU0NywtMjA0MzI0MjUwOSw0MjA2NDcy
-NjYsMTA5OTE2MjAwNiw3NjUyNDMyOTksNzQ4MDU1NDU5LC0xNj
-M3MDg1MzQzLC0xNDY5MDQyMTQ0LDE0NTg3MTgwMDEsOTQwNDQ0
-Nzg5XX0=
+eyJoaXN0b3J5IjpbMTA1MTAyNjM3NywtMjc5MTIyOTc3LC0xMz
+I0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5
+MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYxNDU5LD
+g2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMyNDI1MDksNDIwNjQ3
+MjY2LDEwOTkxNjIwMDYsNzY1MjQzMjk5LDc0ODA1NTQ1OSwtMT
+YzNzA4NTM0MywtMTQ2OTA0MjE0NCwxNDU4NzE4MDAxLDk0MDQ0
+NDc4OV19
 -->
