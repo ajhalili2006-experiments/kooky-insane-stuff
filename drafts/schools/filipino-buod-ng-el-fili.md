@@ -7,7 +7,7 @@ Ang pahina na ito ay parte ng ilan sa mga performance tasks sa Filipino 10 para 
 This is written based on my personal interpretation and understanding of the novel. Although I used
 -->
 
-Ito ay isinulat batay sa aking personal na interpretasyon at pag-unawa sa nobela. Kahit ni-speedrun ko [ang mahiwagang playlist](https://www.youtube.com/playlist?list=PL-rP7f1O1C7gmpKDowvgIk5Ok6UBFrCyG) na ito mula kay [Sir Jet](https://www.youtube.com/@sirjetchannel) ay sariling pagunawa ang naisulat ko dito.
+Ito ay isinulat batay sa aking personal na interpretasyon at pag-unawa sa nobela.
 
 ## Kabanata 1
 
@@ -97,7 +97,7 @@ U0NjA4LDQxNjM3OTI4XX0=
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMTA4NzM2OTU1NCwxNzYwNTU1NzQxLC0xOT
+LCJoaXN0b3J5IjpbMTUwOTk5OTk3NSwxNzYwNTU1NzQxLC0xOT
 Y4MDU5NTMsLTEwOTkyNDE1NTksMjE5MzA1NzEwLDE1NTI2Mjgy
 MjksNDE2Mzc5MjhdfQ==
 -->
