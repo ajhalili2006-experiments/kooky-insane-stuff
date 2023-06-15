@@ -133,7 +133,7 @@ TBD
 - 13 - https://news.abs-cbn.com/sports/06/03/23/world-no-2-wakeboarder-raph-trinidad-competes-in-lithuania-duel / https://news.abs-cbn.com/life/06/13/23/how-juan-lunas-long-lost-masterpiece-was-found
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr~~
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military (2023-06-14)~~
-- 16 - https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system
+- 16 - ~~https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system~~
 - 17 - https://news.abs-cbn.com/news/06/14/23/mmda-warns-motorists-anew-stay-out-of-edsa-bus-lane
 - 18
 - 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let
@@ -150,7 +150,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI5NjE3NjYsLTkzMDgxNjY2MiwtMj
+eyJoaXN0b3J5IjpbLTE5MzgyMTc4MzAsLTkzMDgxNjY2MiwtMj
 c5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3Njky
 ODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwND
 QsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMy
