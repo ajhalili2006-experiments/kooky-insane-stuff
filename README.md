@@ -9,7 +9,7 @@ This repository contains content ranging from his personal character dossiers [^
 
 Don't worry, he's probably fine [^2] other than the regular internalized ableism and too much on "beating himself up harder every time he fucked up" as (actually) Autistic (currently [masking like hell IRL](https://twitter.com/Kuys_Potpot/status/1640025400263999489?s=20), but working on it behind the scenes) person.
 
-## How tf we got here?
+## How the actual `[CENSORED BY MTRCB]` we got here?
 
 > From [Nori Doorman](https://murder-drones.fandom.com/wiki/Nori_Doorman)'s wiki page in Murder Drones Fandom for context, under trivia section:
 > * _A closet containing "NORI'S KOOKY INSANE STUFF" is seen in [The Promening](https://murder-drones.fandom.com/wiki/The_Promening), where Khan stores Uzi's crazed ramblings, hinting at her having a paranoid side to her similar to her daughter as during the events of [Cabin Fever](https://murder-drones.fandom.com/wiki/Cabin_Fever), Khan explained to Uzi that Nori would tell him to prepare for the "upcoming sky demons", "scary singularities" and a "cool 'S' [she] can draw"._
@@ -21,7 +21,7 @@ And because autistic people tend to have these wiki-like levels of knowledge abo
 ## Contents
 
 * [`character-dossiers`](./character-dossiers) - My personal dossiers of different characters, whenever fictional or real.[^1]
-* [`drafts`](./drafts) - Public drafts for different things
+* [`drafts`](./drafts) - Public drafts for different things, including future blog posts for early feedback. What could possibly go wrong?
 * [`gitdiff`](./gitdiff) - Me `git diff`ing stuff and then some, not in form of patches.
 * [`reading-lists`](./reading-lists) - Markdownified version of Medium/Pocket reading lists.
 	* [`obviously-depressing-notes`](./reading-lists/obviously-depressing-notes) - You might guess it.
@@ -40,6 +40,7 @@ All Markdown content and original media should be under CC-BY-SA-4.0 unless othe
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not an Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a MacBook if you do, just ask in Keybase for the address once you have shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MTU2NDQyLDY3NDY2MTA1NSwtMTM1OT
-E1NzE2MiwtMTAzNDA3OTUwMiw2ODA3MjM2MjFdfQ==
+eyJoaXN0b3J5IjpbLTEwMjMxOTUzODUsNjg3MTU2NDQyLDY3ND
+Y2MTA1NSwtMTM1OTE1NzE2MiwtMTAzNDA3OTUwMiw2ODA3MjM2
+MjFdfQ==
 -->
