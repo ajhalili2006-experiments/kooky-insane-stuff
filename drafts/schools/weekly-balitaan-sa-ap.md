@@ -135,8 +135,8 @@ TBD
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military (2023-06-14)~~
 - 16 - ~~https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system~~
 - 17 - https://news.abs-cbn.com/news/06/14/23/mmda-warns-motorists-anew-stay-out-of-edsa-bus-lane
-- 18
-- 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let
+- 18 - https://news.abs-cbn.com/news/06/18/23/p500000-handog-sa-mga-pamilyang-apektado-ng-mindoro-oil-spill
+- 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code
 - 20
 - 21
 - 22
@@ -150,11 +150,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNjg1NjEyLC05MzA4MTY2NjIsLTI3OT
-EyMjk3NywtMTMyNDk2Njc0OCwtMTE5MDMzODEzMCwxNzY5Mjg1
-MTYyLDE1NzExOTExMywtMTUyOTIyNDY4MCwxMDU4NDQ5MDQ0LD
-E2Njk2MTQ1OSw4NjI1OTcxMDcsMTM2ODQyNTQ3LC0yMDQzMjQy
-NTA5LDQyMDY0NzI2NiwxMDk5MTYyMDA2LDc2NTI0MzI5OSw3ND
-gwNTU0NTksLTE2MzcwODUzNDMsLTE0NjkwNDIxNDQsMTQ1ODcx
-ODAwMV19
+eyJoaXN0b3J5IjpbMTE2OTcyMjQxNiw0MzI2ODU2MTIsLTkzMD
+gxNjY2MiwtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4
+MTMwLDE3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLD
+EwNTg0NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1
+NDcsLTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNz
+Y1MjQzMjk5LDc0ODA1NTQ1OSwtMTYzNzA4NTM0MywtMTQ2OTA0
+MjE0NF19
 -->
