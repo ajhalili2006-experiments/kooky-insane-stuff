@@ -1,14 +1,15 @@
+
 # Weekly Balitaan sa AP
 
 > **Note to self**: Maghukay ka na ng sariling libingan sa clearance bandang sa school garden. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
 
- irst uarter
+## First Quarter
 
-D
+TBD
 
- econd uarter
+## Second Quarter
 
-Collected from my internal issue trakcer at Jetbrains Space.
+> Collected from my internal issue trakcer at Jetbrains Space.
 
 -   November 19 - [https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon](https://news.abs-cbn.com/news/11/19/22/marcos-jr-describes-arroyo-as-his-secret-weapon)
 -   20 - [https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns](https://news.abs-cbn.com/business/11/20/22/twitter-turmoil-staff-exodus-aggravate-security-concerns)
@@ -32,7 +33,7 @@ Collected from my internal issue trakcer at Jetbrains Space.
 -   24 - [https://www.rappler.com/technology/social-media/twitter-restores-suicide-prevention-feature/](https://www.rappler.com/technology/social-media/twitter-restores-suicide-prevention-feature/)
 -   25 - [https://www.rappler.com/world/global-affairs/pope-francis-christmas-blessing-message-peace-2022/](https://www.rappler.com/world/global-affairs/pope-francis-christmas-blessing-message-peace-2022/)
 -   26 - [https://www.rappler.com/newsbreak/in-depth/calls-for-k-12-review-intensify-ten-years-since-implementation/](https://www.rappler.com/newsbreak/in-depth/calls-for-k-12-review-intensify-ten-years-since-implementation/) (originally posted on Dec 24, conflicted with existing selection and moved here)
--   27 - https://www.rappler.com/nation/malacanang-taps-edu-punay-dswd-officer-in-charge-december-2022/](https://www.rappler.com/nation/malacanang-taps-edu-punay-dswd-officer-in-charge-december-2022/) or [https://news.abs-cbn.com/news/12/27/22/sim-card-registration-starts-some-users-report-difficulties](https://news.abs-cbn.com/news/12/27/22/sim-card-registration-starts-some-users-report-difficulties)
+-   27 - [https://www.rappler.com/nation/malacanang-taps-edu-punay-dswd-officer-in-charge-december-2022/](https://www.rappler.com/nation/malacanang-taps-edu-punay-dswd-officer-in-charge-december-2022/) or [https://news.abs-cbn.com/news/12/27/22/sim-card-registration-starts-some-users-report-difficulties](https://news.abs-cbn.com/news/12/27/22/sim-card-registration-starts-some-users-report-difficulties)
 -   28 - [https://www.rappler.com/technology/innovations/filipino-scientist-develops-nipa-based-alternative-fuel-stove-prototype/](https://www.rappler.com/technology/innovations/filipino-scientist-develops-nipa-based-alternative-fuel-stove-prototype/) or [https://news.abs-cbn.com/video/spotlight/12/28/22/sim-card-registration-requirements-di-pwedeng-dagdagan-sa-batas](https://news.abs-cbn.com/video/spotlight/12/28/22/sim-card-registration-requirements-di-pwedeng-dagdagan-sa-batas)
 -   29 - [https://news.abs-cbn.com/news/12/28/22/sim-registration-will-not-prevent-text-scams-spams](https://news.abs-cbn.com/news/12/28/22/sim-registration-will-not-prevent-text-scams-spams) (originally posted on Dec 28, conflicted with existing selection and moved here)
 -   30 - [https://www.gmanetwork.com/news/money/companies/855805/philippine-financial-markets-close-2022-on-negative-note/story/](https://www.gmanetwork.com/news/money/companies/855805/philippine-financial-markets-close-2022-on-negative-note/story/)
@@ -72,11 +73,7 @@ Collected from my internal issue trakcer at Jetbrains Space.
 - 17 - [https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan](https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan)
 - 18 - [https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility](https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility)
 - 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
-- 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)TBD
-
-## Third Quarter
-
-TBD
+- 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
 
 ## Fourth Quarter
 
@@ -110,15 +107,6 @@ TBD
 - 17 - https://news.abs-cbn.com/business/05/15/23/senators-seek-review-of-ngcp-contract-with-chinese-company (2023-05-15)
 - 18 - https://news.abs-cbn.com/video/news/05/18/23/covid-19-patients-sa-pgh-dumarami
 - 19 - https://news.abs-cbn.com/news/05/19/23/new-tourism-slogan-must-be-aligned-with-ph-brand-dot
-- 11 -
-- 12 -
-- 13 -
-- 14 -
-- 15 -
-- 16
-- 17
-- 18
-- 19
 - 20 - https://www.rappler.com/nation/blind-passer-michael-morano-dedicates-licensure-examination-professional-teachers-result-late-parents/
 - 21 - https://newsinfo.inquirer.net/1772088/selling-sim-e-wallet-accounts-makes-you-prey-to-scammers?utm_medium=Social&utm_source=Twitter#Echobox=1684621122
 - 22 - https://www.rappler.com/nation/mindanao/sarangani-bay-festival-returns-may-2023/
@@ -137,7 +125,7 @@ TBD
 - 4 - [https://news.abs-cbn.com/news/06/04/23/up-says-upcat-2024-a-success](https://news.abs-cbn.com/news/06/04/23/up-says-upcat-2024-a-success) / [https://news.abs-cbn.com/news/multimedia/photo/06/04/23/cyclists-climate-activists-pedal-for-planet](https://news.abs-cbn.com/news/multimedia/photo/06/04/23/cyclists-climate-activists-pedal-for-planet)
 - 5 - [https://news.abs-cbn.com/video/news/06/05/23/mobile-library-launched-in-makati](https://news.abs-cbn.com/video/news/06/05/23/mobile-library-launched-in-makati)
 - 6 - [https://news.abs-cbn.com/news/06/05/23/magiging-ugnayan-ng-pnp-comelec-sa-barangay-at-sk-elections-tinalakay](https://news.abs-cbn.com/news/06/05/23/magiging-ugnayan-ng-pnp-comelec-sa-barangay-at-sk-elections-tinalakay) / [https://news.abs-cbn.com/news/06/05/23/court-yet-to-decide-on-de-lima-bail-petition](https://news.abs-cbn.com/news/06/05/23/court-yet-to-decide-on-de-lima-bail-petition) / [https://news.abs-cbn.com/news/06/05/23/pnp-naghahanda-na-para-sa-paparating-na-sona-ni-marcos](https://news.abs-cbn.com/news/06/05/23/pnp-naghahanda-na-para-sa-paparating-na-sona-ni-marcos)
-- ~~7 - [https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan](https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan) (2023-06-04)~~ / https://news.abs-cbn.com/news/06/07/23/magnitude-42-earthquake-jolts-camarines-sur
+- ~~7 - https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan](https://news.abs-cbn.com/video/news/06/04/23/pagsagot-ng-philhealth-sa-malaking-halaga-ng-pagpapagamot-ng-cancer-pinag-aaralan) (2023-06-04)~~ / https://news.abs-cbn.com/news/06/07/23/magnitude-42-earthquake-jolts-camarines-sur
 - 8 - [https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos](https://news.abs-cbn.com/news/06/03/23/marcos-jr-i-want-to-be-be-known-as-someone-who-helped-filipinos) (2023-06-03, not selected) / ~~https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa (ABS-CBN News. (2023a, June 7). Problema sa 'brain drain', benepisyo ng frontliners nais tugunan ni Herbosa. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/video/news/06/07/23/problema-sa-brain-drain-benepisyo-ng-frontliners-nais-tugunan-ni-herbosa)~~
 - ~~9 - https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest (citation: ABS-CBN News. (2023, June 9). Albay declares state of calamity due to Mayon unrest. _ABS-CBN News_. Retrieved June 9, 2023, from https://news.abs-cbn.com/news/06/09/23/albay-declares-state-of-calamity-due-to-mayon-unrest)~~
 - ~~10 - https://news.abs-cbn.com/video/news/06/10/23/around-2000-evacuated-so-far-from-mayons-danger-zone~~
@@ -149,7 +137,7 @@ TBD
 - 16 - ~~https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system~~
 - 17 - https://news.abs-cbn.com/news/06/14/23/mmda-warns-motorists-anew-stay-out-of-edsa-bus-lane
 - 18 - https://news.abs-cbn.com/news/06/18/23/p500000-handog-sa-mga-pamilyang-apektado-ng-mindoro-oil-spill
-- 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code
+- 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / ~~https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code~~
 - 20
 - 21
 - 22
@@ -163,11 +151,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NzQzNDYyLDExNjk3MjI0MTYsNDMyNj
-g1NjEyLC05MzA4MTY2NjIsLTI3OTEyMjk3NywtMTMyNDk2Njc0
-OCwtMTE5MDMzODEzMCwxNzY5Mjg1MTYyLDE1NzExOTExMywtMT
-UyOTIyNDY4MCwxMDU4NDQ5MDQ0LDE2Njk2MTQ1OSw4NjI1OTcx
-MDcsMTM2ODQyNTQ3LC0yMDQzMjQyNTA5LDQyMDY0NzI2NiwxMD
-k5MTYyMDA2LDc2NTI0MzI5OSwtMTYzNzA4NTM0MywtMTQ2OTA0
-MjE0NF19
+eyJoaXN0b3J5IjpbMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OT
+cyMjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3
+LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMT
+U3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYx
+NDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMyNDI1MDksND
+IwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1MjQzMjk5LC0xNjM3MDg1
+MzQzXX0=
 -->
