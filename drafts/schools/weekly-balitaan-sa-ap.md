@@ -138,8 +138,8 @@ TBD
 - 17 - https://news.abs-cbn.com/news/06/14/23/mmda-warns-motorists-anew-stay-out-of-edsa-bus-lane
 - 18 - https://news.abs-cbn.com/news/06/18/23/p500000-handog-sa-mga-pamilyang-apektado-ng-mindoro-oil-spill
 - 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / ~~https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code~~
-- 20
-- 21
+- 20 - https://news.abs-cbn.com/business/06/20/23/nwrb-calls-for-water-conservation-households-urged-to-collect-rainwater
+- 21 - https://www.rappler.com/business/consortium-says-manila-will-need-another-airport-catch-up-even-after-naia-rehabilitation/
 - 22
 - 23
 - 24
@@ -151,11 +151,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OT
-cyMjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3
-LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMT
-U3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYx
-NDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMyNDI1MDksND
-IwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1MjQzMjk5LC0xNjM3MDg1
-MzQzXX0=
+eyJoaXN0b3J5IjpbLTE1MDg5NTIzNzksMTM1MDMyNTUwNiw2MT
+g3NDM0NjIsMTE2OTcyMjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2
+MiwtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLD
+E3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0
+NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLT
+IwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1MjQz
+Mjk5XX0=
 -->
