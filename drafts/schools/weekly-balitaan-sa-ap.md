@@ -135,7 +135,7 @@ TBD
 - 14 - https://news.abs-cbn.com/sports/06/13/23/world-cup-organizers-encourage-fans-to-support-gilas (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/informal-waste-sector-an-important-part-of-collection-system-denr~~
 - 15 - https://news.abs-cbn.com/news/06/13/23/doh-urged-to-allow-foreign-doctors-to-briefly-practice-in-ph (2023-06-13) / ~~https://news.abs-cbn.com/news/06/14/23/isis-southeast-asia-leader-killed-in-marawi-military (2023-06-14)~~
 - 16 - ~~https://news.abs-cbn.com/news/06/15/23/mmda-enforcers-sasanayin-sa-single-ticketing-system~~
-- 17 - https://news.abs-cbn.com/news/06/14/23/mmda-warns-motorists-anew-stay-out-of-edsa-bus-lane
+- 17 - ~~https://news.abs-cbn.com/news/06/14/23/mmda-warns-motorists-anew-stay-out-of-edsa-bus-lane~~
 - 18 - https://news.abs-cbn.com/news/06/18/23/p500000-handog-sa-mga-pamilyang-apektado-ng-mindoro-oil-spill
 - 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / ~~https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code~~
 - 20 - https://news.abs-cbn.com/business/06/20/23/nwrb-calls-for-water-conservation-households-urged-to-collect-rainwater
@@ -151,11 +151,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg5NTIzNzksMTM1MDMyNTUwNiw2MT
-g3NDM0NjIsMTE2OTcyMjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2
-MiwtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLD
-E3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0
-NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLT
-IwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkxNjIwMDYsNzY1MjQz
-Mjk5XX0=
+eyJoaXN0b3J5IjpbLTIxNDYzNTg1ODcsLTE1MDg5NTIzNzksMT
+M1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcyMjQxNiw0MzI2ODU2
+MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC
+0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5
+MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNy
+wxMzY4NDI1NDcsLTIwNDMyNDI1MDksNDIwNjQ3MjY2LDEwOTkx
+NjIwMDZdfQ==
 -->
