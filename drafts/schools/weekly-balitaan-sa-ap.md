@@ -140,7 +140,7 @@ TBD
 - 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / ~~https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code~~
 - 20 - https://news.abs-cbn.com/business/06/20/23/nwrb-calls-for-water-conservation-households-urged-to-collect-rainwater
 - 21 - https://www.rappler.com/business/consortium-says-manila-will-need-another-airport-catch-up-even-after-naia-rehabilitation/
-- 22
+- 22 - https://news.abs-cbn.com/news/06/21/23/youtube-suspends-apollo-quiboloys-channel
 - 23
 - 24
 - 25
@@ -151,7 +151,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYzNTg1ODcsLTE1MDg5NTIzNzksMT
+eyJoaXN0b3J5IjpbLTIwODgyMDM0NjIsLTE1MDg5NTIzNzksMT
 M1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcyMjQxNiw0MzI2ODU2
 MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC
 0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5
