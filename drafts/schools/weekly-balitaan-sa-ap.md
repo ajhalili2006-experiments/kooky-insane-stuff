@@ -141,8 +141,8 @@ TBD
 - 20 - https://news.abs-cbn.com/business/06/20/23/nwrb-calls-for-water-conservation-households-urged-to-collect-rainwater
 - 21 - https://www.rappler.com/business/consortium-says-manila-will-need-another-airport-catch-up-even-after-naia-rehabilitation/
 - 22 - https://news.abs-cbn.com/news/06/21/23/youtube-suspends-apollo-quiboloys-channel
-- 23 - https://news.abs-cbn.com/business/06/22/23/dof-doh-eye-higher-sin-tax-rates-on-junk-food
-- 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/
+- 23 - https://news.abs-cbn.com/business/06/22/23/dof-doh-eye-higher-sin-tax-rates-on-junk-food / https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy
+- 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay
 - 25
 - 26
 - 27
@@ -151,11 +151,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDcxNjI3OTksLTIwODgyMDM0NjIsLT
-E1MDg5NTIzNzksMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcy
-MjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC
-0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3
-MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYxND
-U5LDg2MjU5NzEwNywxMzY4NDI1NDcsLTIwNDMyNDI1MDksNDIw
-NjQ3MjY2XX0=
+eyJoaXN0b3J5IjpbLTE1NjEyODIyMzcsLTE1NDcxNjI3OTksLT
+IwODgyMDM0NjIsLTE1MDg5NTIzNzksMTM1MDMyNTUwNiw2MTg3
+NDM0NjIsMTE2OTcyMjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2Mi
+wtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3
+NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEwNTg0ND
+kwNDQsMTY2OTYxNDU5LDg2MjU5NzEwNywxMzY4NDI1NDcsLTIw
+NDMyNDI1MDldfQ==
 -->
