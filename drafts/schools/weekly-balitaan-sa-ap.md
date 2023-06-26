@@ -144,18 +144,19 @@ TBD
 - 23 - https://news.abs-cbn.com/business/06/22/23/dof-doh-eye-higher-sin-tax-rates-on-junk-food / https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy
 - 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay
 - 25 - 
-- 26
-- 27
-- 28
+- 26 - https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/
+- 27 - 
+- 28 - 
+- 29 - 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNT
-Q3MTYyNzk5LC0yMDg4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAz
-MjU1MDYsNjE4NzQzNDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC
-05MzA4MTY2NjIsLTI3OTEyMjk3NywtMTMyNDk2Njc0OCwtMTE5
-MDMzODEzMCwxNzY5Mjg1MTYyLDE1NzExOTExMywtMTUyOTIyND
-Y4MCwxMDU4NDQ5MDQ0LDE2Njk2MTQ1OSw4NjI1OTcxMDcsMTM2
-ODQyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTYxMDgzMzk3OCw1MzkzODI5NDIsLTE1Nj
+EyODIyMzcsLTE1NDcxNjI3OTksLTIwODgyMDM0NjIsLTE1MDg5
+NTIzNzksMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcyMjQxNi
+w0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC0xMzI0
+OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5MT
+EzLC0xNTI5MjI0NjgwLDEwNTg0NDkwNDQsMTY2OTYxNDU5LDg2
+MjU5NzEwN119
 -->
