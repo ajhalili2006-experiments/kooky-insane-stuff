@@ -143,20 +143,20 @@ TBD
 - 22 - https://news.abs-cbn.com/news/06/21/23/youtube-suspends-apollo-quiboloys-channel
 - 23 - https://news.abs-cbn.com/business/06/22/23/dof-doh-eye-higher-sin-tax-rates-on-junk-food 
 - 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay
-- 25 - https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy
-- 26 - https://news.abs-cbn.com/video/news/06/26/23/pagasa-watching-lpa-off-eastern-samar
-- 27 - https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/~~
+- 25 - ~~https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy~~
+- 26 - ~~https://news.abs-cbn.com/video/news/06/26/23/pagasa-watching-lpa-off-eastern-samar~~
+- 27 - ~~https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/~~
 - 28 - 
 - 29 - 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE2MTQ5MjQsMTAyMDIzMDM4OCwtNj
-EwODMzOTc4LDUzOTM4Mjk0MiwtMTU2MTI4MjIzNywtMTU0NzE2
-Mjc5OSwtMjA4ODIwMzQ2MiwtMTUwODk1MjM3OSwxMzUwMzI1NT
-A2LDYxODc0MzQ2MiwxMTY5NzIyNDE2LDQzMjY4NTYxMiwtOTMw
-ODE2NjYyLC0yNzkxMjI5NzcsLTEzMjQ5NjY3NDgsLTExOTAzMz
-gxMzAsMTc2OTI4NTE2MiwxNTcxMTkxMTMsLTE1MjkyMjQ2ODAs
-MTA1ODQ0OTA0NF19
+eyJoaXN0b3J5IjpbMjEwMzYwNDE0OCwxMDIwMjMwMzg4LC02MT
+A4MzM5NzgsNTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNTQ3MTYy
+Nzk5LC0yMDg4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAzMjU1MD
+YsNjE4NzQzNDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC05MzA4
+MTY2NjIsLTI3OTEyMjk3NywtMTMyNDk2Njc0OCwtMTE5MDMzOD
+EzMCwxNzY5Mjg1MTYyLDE1NzExOTExMywtMTUyOTIyNDY4MCwx
+MDU4NDQ5MDQ0XX0=
 -->
