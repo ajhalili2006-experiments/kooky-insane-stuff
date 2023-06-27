@@ -3,6 +3,8 @@
 
 > **Note to self**: Maghukay ka na ng sariling libingan sa clearance bandang sa school garden. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
 
+This page contains all the articles @ajhalili2006 used for the Weekly Balitaan homework and all-year-round project in Social Studies 10.
+
 ## First Quarter
 
 TBD
@@ -152,7 +154,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzYwNDE0OCwxMDIwMjMwMzg4LC02MT
+eyJoaXN0b3J5IjpbMjEzMTA4NjE1MSwxMDIwMjMwMzg4LC02MT
 A4MzM5NzgsNTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNTQ3MTYy
 Nzk5LC0yMDg4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAzMjU1MD
 YsNjE4NzQzNDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC05MzA4
