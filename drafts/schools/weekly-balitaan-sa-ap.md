@@ -5,6 +5,8 @@
 
 This page contains all the articles @ajhalili2006 used for the Weekly Balitaan homework and all-year-round project in Social Studies 10.
 
+Last updated: 2023-06-28
+
 ## First Quarter
 
 TBD
@@ -154,11 +156,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTA4NjE1MSwxMDIwMjMwMzg4LC02MT
-A4MzM5NzgsNTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNTQ3MTYy
-Nzk5LC0yMDg4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAzMjU1MD
-YsNjE4NzQzNDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC05MzA4
-MTY2NjIsLTI3OTEyMjk3NywtMTMyNDk2Njc0OCwtMTE5MDMzOD
-EzMCwxNzY5Mjg1MTYyLDE1NzExOTExMywtMTUyOTIyNDY4MCwx
-MDU4NDQ5MDQ0XX0=
+eyJoaXN0b3J5IjpbMzg0MDE4NzY1LDEwMjAyMzAzODgsLTYxMD
+gzMzk3OCw1MzkzODI5NDIsLTE1NjEyODIyMzcsLTE1NDcxNjI3
+OTksLTIwODgyMDM0NjIsLTE1MDg5NTIzNzksMTM1MDMyNTUwNi
+w2MTg3NDM0NjIsMTE2OTcyMjQxNiw0MzI2ODU2MTIsLTkzMDgx
+NjY2MiwtMjc5MTIyOTc3LC0xMzI0OTY2NzQ4LC0xMTkwMzM4MT
+MwLDE3NjkyODUxNjIsMTU3MTE5MTEzLC0xNTI5MjI0NjgwLDEw
+NTg0NDkwNDRdfQ==
 -->
