@@ -145,18 +145,18 @@ TBD
 - 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay
 - 25 - https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy
 - 26 - https://news.abs-cbn.com/video/news/06/26/23/pagasa-watching-lpa-off-eastern-samar
-- 27 - https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/
+- 27 - https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/~~
 - 28 - 
 - 29 - 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOT
-M4Mjk0MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIw
-MzQ2MiwtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2Mi
-wxMTY5NzIyNDE2LDQzMjY4NTYxMiwtOTMwODE2NjYyLC0yNzkx
-MjI5NzcsLTEzMjQ5NjY3NDgsLTExOTAzMzgxMzAsMTc2OTI4NT
-E2MiwxNTcxMTkxMTMsLTE1MjkyMjQ2ODAsMTA1ODQ0OTA0NCwx
-NjY5NjE0NTldfQ==
+eyJoaXN0b3J5IjpbLTE2MDE2MTQ5MjQsMTAyMDIzMDM4OCwtNj
+EwODMzOTc4LDUzOTM4Mjk0MiwtMTU2MTI4MjIzNywtMTU0NzE2
+Mjc5OSwtMjA4ODIwMzQ2MiwtMTUwODk1MjM3OSwxMzUwMzI1NT
+A2LDYxODc0MzQ2MiwxMTY5NzIyNDE2LDQzMjY4NTYxMiwtOTMw
+ODE2NjYyLC0yNzkxMjI5NzcsLTEzMjQ5NjY3NDgsLTExOTAzMz
+gxMzAsMTc2OTI4NTE2MiwxNTcxMTkxMTMsLTE1MjkyMjQ2ODAs
+MTA1ODQ0OTA0NF19
 -->
