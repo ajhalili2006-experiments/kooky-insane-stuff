@@ -13,7 +13,7 @@ Last updated: 2023-06-28
 - 20 -
 - 21 -
 - 22 -
-- 23
+- 23 - https://www.rappler.com/world/asia-pacific/kim-jong-un-congratulates-xi-jinping-reelection-october-23-2022/
 - 24 - https://newsinfo.inquirer.net/1684268/lies-are-not-education-hontiveros-hits-deped-rebranding-of-martial-law
 - 25 - https://news.abs-cbn.com/news/multimedia/video/10/25/22/pagsusuot-ng-face-mask-indoors-gagawin-nang-voluntary
 - 26 - https://www.rappler.com/newsbreak/in-depth/pressure-on-marcos-jr-renew-expiring-european-union-tariff-perks/
@@ -163,7 +163,7 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjc1NTUzOSwzNTI5NjkwOTQsLTk4MD
+eyJoaXN0b3J5IjpbMTMyMDg5MTY3MSwzNTI5NjkwOTQsLTk4MD
 AxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5NzgsNTM5MzgyOTQy
 LC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMDg4MjAzNDYyLC
 0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQzNDYyLDExNjk3
