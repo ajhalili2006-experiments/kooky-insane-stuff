@@ -102,7 +102,7 @@ Last updated: 2023-06-28
 - ~~29 - <https://www.rappler.com/technology/vice-media-layoffs-news-tonight-shutdown-april-2023/>~~
 - ~~30 - <https://news.abs-cbn.com/news/04/30/23/repatriated-pinoys-from-sudan-recall-horrors-of-conflict>~~
 - ~~May 1 - <https://news.abs-cbn.com/video/business/05/01/23/work-life-balance-among-jobseekers-top-priority-in-new-normal-jobstreet>~~
-- 2 - <https://www.rappler.com/world/europe/king-charles-settles-life-monarch-long-wait/>
+- 2 - https://www.rappler.com/nation/agenda-top-issues-marcos-jr-official-visit-united-states-2023/
 - ~~3 - <https://techcrunch.com/2023/05/02/dma-applies>~~
 - 4 - https://news.abs-cbn.com/news/05/03/23/ilang-ofw-mula-sudan-dumating-ngayong-hapon (2023-05-03)
 - 5 - https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study (2023-04-23)
@@ -165,11 +165,11 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5Njg1NzQ2LDM1Mjk2OTA5NCwtOTgwMD
-E0Njk2LDEwMjAyMzAzODgsLTYxMDgzMzk3OCw1MzkzODI5NDIs
-LTE1NjEyODIyMzcsLTE1NDcxNjI3OTksLTIwODgyMDM0NjIsLT
-E1MDg5NTIzNzksMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcy
-MjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC
-0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3
-MTE5MTEzXX0=
+eyJoaXN0b3J5IjpbNjg3ODkxNTkxLDkxOTY4NTc0NiwzNTI5Nj
+kwOTQsLTk4MDAxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5Nzgs
+NTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMD
+g4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQz
+NDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC05MzA4MTY2NjIsLT
+I3OTEyMjk3NywtMTMyNDk2Njc0OCwtMTE5MDMzODEzMCwxNzY5
+Mjg1MTYyXX0=
 -->
