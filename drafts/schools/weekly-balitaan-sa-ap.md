@@ -11,8 +11,8 @@ Last updated: 2023-06-28
 - October 18 - https://www.theverge.com/2022/10/18/23411275/netflix-password-sharing-ad-supported-launch-crackdown-adds-subscribers
 - October 19 - https://news.abs-cbn.com/entertainment/10/19/22/chito-miranda-weighs-in-on-lack-of-support-for-ph-shows
 - 20 -
-- 21 -
-- 22 -
+- 21 - https://news.abs-cbn.com/business/10/21/22/national-id-to-become-more-accessible-via-mobile-version
+- 22 - https://news.abs-cbn.com/video/news/10/22/22/ilang-senador-nanawagang-bilisan-ang-imbestigasyon-sa-kaso-ni-percy-lapid
 - 23 - https://www.rappler.com/world/asia-pacific/kim-jong-un-congratulates-xi-jinping-reelection-october-23-2022/
 - 24 - https://newsinfo.inquirer.net/1684268/lies-are-not-education-hontiveros-hits-deped-rebranding-of-martial-law
 - 25 - https://news.abs-cbn.com/news/multimedia/video/10/25/22/pagsusuot-ng-face-mask-indoors-gagawin-nang-voluntary
@@ -163,7 +163,7 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDg5MTY3MSwzNTI5NjkwOTQsLTk4MD
+eyJoaXN0b3J5IjpbMjA3Mjc0MDYxOSwzNTI5NjkwOTQsLTk4MD
 AxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5NzgsNTM5MzgyOTQy
 LC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMDg4MjAzNDYyLC
 0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQzNDYyLDExNjk3
