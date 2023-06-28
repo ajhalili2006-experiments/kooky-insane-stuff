@@ -8,7 +8,8 @@ Last updated: 2023-06-28
 
 ## First Quarter
 
-- October 10 - https://news.abs-cbn.com/entertainment/10/19/22/chito-miranda-weighs-in-on-lack-of-support-for-ph-shows
+- October 18 - https://www.theverge.com/2022/10/18/23411275/netflix-password-sharing-ad-supported-launch-crackdown-adds-subscribers
+- October 19 - https://news.abs-cbn.com/entertainment/10/19/22/chito-miranda-weighs-in-on-lack-of-support-for-ph-shows
 
 ## Second Quarter
 
@@ -155,11 +156,11 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA0NDQ3NzIsMzUyOTY5MDk0LC05OD
-AwMTQ2OTYsMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0
-MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2Mi
-wtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5
-NzIyNDE2LDQzMjY4NTYxMiwtOTMwODE2NjYyLC0yNzkxMjI5Nz
-csLTEzMjQ5NjY3NDgsLTExOTAzMzgxMzAsMTc2OTI4NTE2Miwx
-NTcxMTkxMTNdfQ==
+eyJoaXN0b3J5IjpbNTg0NzUzOTg5LDM1Mjk2OTA5NCwtOTgwMD
+E0Njk2LDEwMjAyMzAzODgsLTYxMDgzMzk3OCw1MzkzODI5NDIs
+LTE1NjEyODIyMzcsLTE1NDcxNjI3OTksLTIwODgyMDM0NjIsLT
+E1MDg5NTIzNzksMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcy
+MjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC
+0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3
+MTE5MTEzXX0=
 -->
