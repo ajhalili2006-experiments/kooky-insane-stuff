@@ -149,13 +149,13 @@ TBD
 - 25 - ~~https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy~~
 - 26 - ~~https://news.abs-cbn.com/video/news/06/26/23/pagasa-watching-lpa-off-eastern-samar~~
 - 27 - ~~https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/~~
-- 28 - https://news.abs-cbn.com/video/news/06/27/23/dot-unveils-new-tourism-slogan-love-the-philippines
-- 29 - https://news.abs-cbn.com/news/06/27/23/who-warns-covid-has-not-gone-away
+- 28 - ~~https://news.abs-cbn.com/video/news/06/27/23/dot-unveils-new-tourism-slogan-love-the-philippines~~
+- 29 - ~~https://news.abs-cbn.com/news/06/27/23/who-warns-covid-has-not-gone-away~~
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDExMDUwMTcsMzUyOTY5MDk0LC05OD
+eyJoaXN0b3J5IjpbLTIwODcyNTE4OTcsMzUyOTY5MDk0LC05OD
 AwMTQ2OTYsMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0
 MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2Mi
 wtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5
