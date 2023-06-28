@@ -4,6 +4,8 @@
 
 This page contains all the articles @ajhalili2006 used for the Weekly Balitaan homework and all-year-round project in Social Studies 10.
 
+Note that links that are in strikethough are considered done by Andrei Jiroh.
+
 Last updated: 2023-06-28
 
 ## First Quarter
@@ -163,7 +165,7 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjc0MDYxOSwzNTI5NjkwOTQsLTk4MD
+eyJoaXN0b3J5IjpbLTM3NjYxNzUxNiwzNTI5NjkwOTQsLTk4MD
 AxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5NzgsNTM5MzgyOTQy
 LC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMDg4MjAzNDYyLC
 0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQzNDYyLDExNjk3
