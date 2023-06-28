@@ -54,7 +54,7 @@ TBD
 -   15 - [https://www.gmanetwork.com/news/money/companies/857446/advisory-body-urges-marcos-to-institutionalize-policies-on-streamlining-permits-for-telco-infra/story/?just_in](https://www.gmanetwork.com/news/money/companies/857446/advisory-body-urges-marcos-to-institutionalize-policies-on-streamlining-permits-for-telco-infra/story/?just_in)
 -   16 - [https://news.abs-cbn.com/news/01/16/23/pinagsamantalahan-local-farmers-forced-to-sell-onions-for-p8-p15kilo](https://news.abs-cbn.com/news/01/16/23/pinagsamantalahan-local-farmers-forced-to-sell-onions-for-p8-p15kilo)
 -   17 - [https://news.abs-cbn.com/news/01/16/23/missing-devt-workers-in-cebu-found-allege-abduction](https://news.abs-cbn.com/news/01/16/23/missing-devt-workers-in-cebu-found-allege-abduction)
--   18 - [https://news.abs-cbn.com/video/news/01/18/23/doj-panel-dismisses-murder-complaint-vs-17-cops-over-2021-bloody-sunday-raids](https://news.abs-cbn.com/video/news/01/18/23/doj-panel-dismisses-murder-complaint-vs-17-cops-over-2021-bloody-sunday-raids)
+-   18 - [https://news.abs-cbn.com/video/news/01/18/23/doj-panel-dismisses-murder-complaint-vs-17-cops-over-2021-bloody-sunday-raids](https://news.abs-cbn.com/video/news/01/18/23/doj-panel-dismisses-murder-complaint-vs-17-cops-over-2021-bloody-sunday-raids) / https://news.abs-cbn.com/business/01/18/23/taas-singil-sa-kuryente-nagbabanta-dahil-sa-pagtatapos-ng-kontrata-meralco
 -   19 - [https://newsinfo.inquirer.net/1718691/imee-marcos-tells-police-to-stop-alleged-harassment-of-onion-farmers](https://newsinfo.inquirer.net/1718691/imee-marcos-tells-police-to-stop-alleged-harassment-of-onion-farmers)
 -   20 - [https://newsinfo.inquirer.net/1718721/slex-tax-refund-from-makati-lgu](https://newsinfo.inquirer.net/1718721/slex-tax-refund-from-makati-lgu) / [https://newsinfo.inquirer.net/1718784/baguio-activist-seeks-cyberlibel-retrial](https://newsinfo.inquirer.net/1718784/baguio-activist-seeks-cyberlibel-retrial)
 -   21 - [https://business.inquirer.net/383431/marcos-says-wef-mission-accomplished-explains-large-delegation-size?utm_source=gallery&utm_medium=direct](https://business.inquirer.net/383431/marcos-says-wef-mission-accomplished-explains-large-delegation-size?utm_source=gallery&utm_medium=direct)
@@ -155,7 +155,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcyNTE4OTcsMzUyOTY5MDk0LC05OD
+eyJoaXN0b3J5IjpbLTE0Mzg0MTExNTIsMzUyOTY5MDk0LC05OD
 AwMTQ2OTYsMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0
 MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2Mi
 wtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5
