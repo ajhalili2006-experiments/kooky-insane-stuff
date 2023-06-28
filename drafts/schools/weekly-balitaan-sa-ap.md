@@ -145,7 +145,7 @@ TBD
 - 21 - https://www.rappler.com/business/consortium-says-manila-will-need-another-airport-catch-up-even-after-naia-rehabilitation/
 - 22 - https://news.abs-cbn.com/news/06/21/23/youtube-suspends-apollo-quiboloys-channel
 - 23 - https://news.abs-cbn.com/business/06/22/23/dof-doh-eye-higher-sin-tax-rates-on-junk-food 
-- 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay
+- 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay / https://mb.com.ph/2023/6/21/meta-to-embrace-extend-extinguish-the-fediverse
 - 25 - ~~https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy~~
 - 26 - ~~https://news.abs-cbn.com/video/news/06/26/23/pagasa-watching-lpa-off-eastern-samar~~
 - 27 - ~~https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/~~
@@ -155,11 +155,11 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyOTY5MDk0LC05ODAwMTQ2OTYsMTAyMD
-IzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0MiwtMTU2MTI4MjIz
-NywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2MiwtMTUwODk1MjM3OS
-wxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5NzIyNDE2LDQzMjY4
-NTYxMiwtOTMwODE2NjYyLC0yNzkxMjI5NzcsLTEzMjQ5NjY3ND
-gsLTExOTAzMzgxMzAsMTc2OTI4NTE2MiwxNTcxMTkxMTMsLTE1
-MjkyMjQ2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDExMDUwMTcsMzUyOTY5MDk0LC05OD
+AwMTQ2OTYsMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0
+MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2Mi
+wtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5
+NzIyNDE2LDQzMjY4NTYxMiwtOTMwODE2NjYyLC0yNzkxMjI5Nz
+csLTEzMjQ5NjY3NDgsLTExOTAzMzgxMzAsMTc2OTI4NTE2Miwx
+NTcxMTkxMTNdfQ==
 -->
