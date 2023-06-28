@@ -153,7 +153,7 @@ Last updated: 2023-06-28
 - 19 - https://news.abs-cbn.com/video/news/06/15/23/ama-namigay-ng-taho-matapos-makapasa-ang-anak-sa-let / ~~https://news.abs-cbn.com/news/06/18/23/barmm-leaders-push-scrapping-provisions-of-electoral-code~~
 - 20 - https://news.abs-cbn.com/business/06/20/23/nwrb-calls-for-water-conservation-households-urged-to-collect-rainwater
 - 21 - https://www.rappler.com/business/consortium-says-manila-will-need-another-airport-catch-up-even-after-naia-rehabilitation/
-- 22 - https://news.abs-cbn.com/news/06/21/23/youtube-suspends-apollo-quiboloys-channel
+- 22 - ~~https://news.abs-cbn.com/news/06/21/23/youtube-suspends-apollo-quiboloys-channel~~
 - 23 - https://news.abs-cbn.com/business/06/22/23/dof-doh-eye-higher-sin-tax-rates-on-junk-food 
 - 24 - https://www.rappler.com/business/puregold-acquires-divimart-supermarkets/ / https://news.abs-cbn.com/news/06/23/23/3-bilibid-gang-leaders-plead-guilty-to-helping-percy-lapid-slay / https://mb.com.ph/2023/6/21/meta-to-embrace-extend-extinguish-the-fediverse
 - 25 - ~~https://news.abs-cbn.com/video/news/06/23/23/tunggalian-sa-pagsasabatas-sa-sogie-equality-bill-nagpapatuloy~~
@@ -165,7 +165,7 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjYxNzUxNiwzNTI5NjkwOTQsLTk4MD
+eyJoaXN0b3J5IjpbMTExMzA0MjUxNiwzNTI5NjkwOTQsLTk4MD
 AxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5NzgsNTM5MzgyOTQy
 LC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMDg4MjAzNDYyLC
 0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQzNDYyLDExNjk3
