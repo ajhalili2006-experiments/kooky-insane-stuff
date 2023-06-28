@@ -2,7 +2,7 @@
 
 > **Note to self**: Maghukay ka na ng sariling libingan sa clearance bandang sa school garden. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
 
-This page contains all the articles @ajhalili2006 used for the Weekly Balitaan homework and all-year-round project in Social Studies 10.
+This page contains all the articles @ajhalili2006 used for the Weekly Balitaan homework and all-year-round project in Social Studies 10, albeit incomplete due to reasons such as balancing work-life-rest as autistic student, academic/autistic burnout and mental health behind the scenes, among other things.
 
 Note that links that are in strikethough are considered done by Andrei Jiroh.
 
@@ -165,7 +165,7 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIxMjM1MDAsMzUyOTY5MDk0LC05OD
+eyJoaXN0b3J5IjpbLTE4MjUwMjU5MDMsMzUyOTY5MDk0LC05OD
 AwMTQ2OTYsMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0
 MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2Mi
 wtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5
