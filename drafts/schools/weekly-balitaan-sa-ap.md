@@ -10,6 +10,13 @@ Last updated: 2023-06-28
 
 - October 18 - https://www.theverge.com/2022/10/18/23411275/netflix-password-sharing-ad-supported-launch-crackdown-adds-subscribers
 - October 19 - https://news.abs-cbn.com/entertainment/10/19/22/chito-miranda-weighs-in-on-lack-of-support-for-ph-shows
+- 20 -
+- 21 -
+- 22 -
+- 23
+- 24 - https://newsinfo.inquirer.net/1684268/lies-are-not-education-hontiveros-hits-deped-rebranding-of-martial-law
+- 25 - https://news.abs-cbn.com/news/multimedia/video/10/25/22/pagsusuot-ng-face-mask-indoors-gagawin-nang-voluntary
+- 26 - https://www.rappler.com/newsbreak/in-depth/pressure-on-marcos-jr-renew-expiring-european-union-tariff-perks/
 
 ## Second Quarter
 
@@ -156,11 +163,11 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NzUzOTg5LDM1Mjk2OTA5NCwtOTgwMD
-E0Njk2LDEwMjAyMzAzODgsLTYxMDgzMzk3OCw1MzkzODI5NDIs
-LTE1NjEyODIyMzcsLTE1NDcxNjI3OTksLTIwODgyMDM0NjIsLT
-E1MDg5NTIzNzksMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcy
-MjQxNiw0MzI2ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC
-0xMzI0OTY2NzQ4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3
-MTE5MTEzXX0=
+eyJoaXN0b3J5IjpbMTcyMjc1NTUzOSwzNTI5NjkwOTQsLTk4MD
+AxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5NzgsNTM5MzgyOTQy
+LC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMDg4MjAzNDYyLC
+0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQzNDYyLDExNjk3
+MjI0MTYsNDMyNjg1NjEyLC05MzA4MTY2NjIsLTI3OTEyMjk3Ny
+wtMTMyNDk2Njc0OCwtMTE5MDMzODEzMCwxNzY5Mjg1MTYyLDE1
+NzExOTExM119
 -->
