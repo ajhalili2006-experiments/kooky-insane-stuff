@@ -1,4 +1,3 @@
-
 # Weekly Balitaan sa AP
 
 > **Note to self**: Maghukay ka na ng sariling libingan sa clearance bandang sa school garden. ([context](https://go.andreijiroh.eu.org/this-is-my-grave-toh))
@@ -77,19 +76,7 @@ TBD
 - 17 - [https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan](https://news.abs-cbn.com/news/02/17/23/tigil-operasyon-ng-pnr-sinisilip-alternatibo-pag-aaralan)
 - 18 - [https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility](https://news.abs-cbn.com/video/news/02/17/23/masungi-georeserve-foundation-kontra-sa-pagpapatayo-ng-bucor-facility)
 - 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
-- 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)<!-- Start writing. -->
-
-## First Quarter
-
-TBD
-
-## Second Quarter
-
-TBD
-
-## Third Quarter
-
-TBD
+- 19 - [https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay](https://news.abs-cbn.com/news/02/19/23/missing-cessna-plane-found-in-albay)
 
 ## Fourth Quarter
 
@@ -99,11 +86,6 @@ TBD
 - 23 - https://news.abs-cbn.com/video/news/04/22/23/libo-libong-muslim-sa-ibat-ibang-parte-ng-bansa-ipinagdiwang-ang-eidl-fitr / https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study
 - 24 - https://news.abs-cbn.com/video/business/04/24/23/mobile-phone-users-dumidiskarte-para-mairehistro-ang-sim
 - 25 - https://news.abs-cbn.com/classified-odd/04/25/23/80-goldfish-na-ninakaw-sa-germany-isinauli-din
-- 21
-- 22
-- 23
-- 24
-- 25
 - 26 - https://www.rappler.com/nation/groups-question-marcos-meeting-biden-over-workers-labor-day-2023/
 - ~~27 - <https://www.rappler.com/nation/mindanao/barmms-says-supreme-court-order-did-not-acknowledge-sinsuat-governor/>~~
 - ~~28 - https://www.rappler.com/newsbreak/in-depth/sara-duterte-brings-red-tagging-deped>~~
@@ -169,20 +151,15 @@ TBD
 - 27 - ~~https://www.rappler.com/nation/luzon/equality-still-battle-baguio-lgbtq-folk-despite-gains-2023/~~
 - 28 - https://news.abs-cbn.com/video/news/06/27/23/dot-unveils-new-tourism-slogan-love-the-philippines
 - 29 - https://news.abs-cbn.com/news/06/27/23/who-warns-covid-has-not-gone-away
-- 10 -
-- 11 -
-- 12 -
-- 13 -
-
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjA4OTgzMCwtOTgwMDE0Njk2LDEwMj
-AyMzAzODgsLTYxMDgzMzk3OCw1MzkzODI5NDIsLTE1NjEyODIy
-MzcsLTE1NDcxNjI3OTksLTIwODgyMDM0NjIsLTE1MDg5NTIzNz
-ksMTM1MDMyNTUwNiw2MTg3NDM0NjIsMTE2OTcyMjQxNiw0MzI2
-ODU2MTIsLTkzMDgxNjY2MiwtMjc5MTIyOTc3LC0xMzI0OTY2Nz
-Q4LC0xMTkwMzM4MTMwLDE3NjkyODUxNjIsMTU3MTE5MTEzLC0x
-NTI5MjI0NjgwXX0=
+eyJoaXN0b3J5IjpbMzUyOTY5MDk0LC05ODAwMTQ2OTYsMTAyMD
+IzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0MiwtMTU2MTI4MjIz
+NywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2MiwtMTUwODk1MjM3OS
+wxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5NzIyNDE2LDQzMjY4
+NTYxMiwtOTMwODE2NjYyLC0yNzkxMjI5NzcsLTEzMjQ5NjY3ND
+gsLTExOTAzMzgxMzAsMTc2OTI4NTE2MiwxNTcxMTkxMTMsLTE1
+MjkyMjQ2ODBdfQ==
 -->
