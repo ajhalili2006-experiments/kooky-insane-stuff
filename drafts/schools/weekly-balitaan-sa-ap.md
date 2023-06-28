@@ -8,7 +8,7 @@ Last updated: 2023-06-28
 
 ## First Quarter
 
-TBD
+- October 10 - https://news.abs-cbn.com/entertainment/10/19/22/chito-miranda-weighs-in-on-lack-of-support-for-ph-shows
 
 ## Second Quarter
 
@@ -155,7 +155,7 @@ TBD
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg0MTExNTIsMzUyOTY5MDk0LC05OD
+eyJoaXN0b3J5IjpbLTEwNTA0NDQ3NzIsMzUyOTY5MDk0LC05OD
 AwMTQ2OTYsMTAyMDIzMDM4OCwtNjEwODMzOTc4LDUzOTM4Mjk0
 MiwtMTU2MTI4MjIzNywtMTU0NzE2Mjc5OSwtMjA4ODIwMzQ2Mi
 wtMTUwODk1MjM3OSwxMzUwMzI1NTA2LDYxODc0MzQ2MiwxMTY5
