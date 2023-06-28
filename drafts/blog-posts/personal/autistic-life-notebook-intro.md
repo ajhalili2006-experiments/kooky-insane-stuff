@@ -1,7 +1,7 @@
 ---
 title: Welcome to my virtual notebook about my Autistic life!
 subtitle: Apart from my "leaving the disability closet" post (though still masking a bit for safety reasons) and the official launch for Awesome Neurodiversity project, say hi to this addition to the blog.
-publication: personal
+publication: personal/autistic-life-notebook
 targetPlatform: substack.com
 ---
 
@@ -14,5 +14,5 @@ And like any other autistic blogs, expect gaps between post publication times be
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbNTg2Mzg2Njc2XX0=
+LCJoaXN0b3J5IjpbMzk1NjE5MDcyXX0=
 -->
