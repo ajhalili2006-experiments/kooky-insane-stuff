@@ -95,14 +95,14 @@ Last updated: 2023-06-28
 - ~~22 - https://news.abs-cbn.com/video/news/04/22/23/oriental-mindoro-maaaring-makaranas-ng-blackout~~ / https://news.abs-cbn.com/sports/04/22/23/chef-de-mission-optimistic-of-phs-chances-in-para-games
 - 23 - https://news.abs-cbn.com/video/news/04/22/23/libo-libong-muslim-sa-ibat-ibang-parte-ng-bansa-ipinagdiwang-ang-eidl-fitr / https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study
 - 24 - https://news.abs-cbn.com/video/business/04/24/23/mobile-phone-users-dumidiskarte-para-mairehistro-ang-sim
-- 25 - https://news.abs-cbn.com/classified-odd/04/25/23/80-goldfish-na-ninakaw-sa-germany-isinauli-din
-- 26 - https://www.rappler.com/nation/groups-question-marcos-meeting-biden-over-workers-labor-day-2023/
+- 25 - https://news.abs-cbn.com/video/news/04/23/23/pagsuspende-ng-face-to-face-classes-dahil-sa-init-ipinaubaya-sa-school-heads
+- 26 - ~~https://www.rappler.com/nation/groups-question-marcos-meeting-biden-over-workers-labor-day-2023/~~
 - ~~27 - <https://www.rappler.com/nation/mindanao/barmms-says-supreme-court-order-did-not-acknowledge-sinsuat-governor/>~~
 - ~~28 - https://www.rappler.com/newsbreak/in-depth/sara-duterte-brings-red-tagging-deped>~~
 - ~~29 - <https://www.rappler.com/technology/vice-media-layoffs-news-tonight-shutdown-april-2023/>~~
 - ~~30 - <https://news.abs-cbn.com/news/04/30/23/repatriated-pinoys-from-sudan-recall-horrors-of-conflict>~~
 - ~~May 1 - <https://news.abs-cbn.com/video/business/05/01/23/work-life-balance-among-jobseekers-top-priority-in-new-normal-jobstreet>~~
-- 2 - https://www.rappler.com/nation/agenda-top-issues-marcos-jr-official-visit-united-states-2023/
+- 2 - ~~https://www.rappler.com/nation/agenda-top-issues-marcos-jr-official-visit-united-states-2023/~~
 - ~~3 - <https://techcrunch.com/2023/05/02/dma-applies>~~
 - 4 - https://news.abs-cbn.com/news/05/03/23/ilang-ofw-mula-sudan-dumating-ngayong-hapon (2023-05-03)
 - 5 - https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study (2023-04-23)
@@ -165,11 +165,11 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3ODkxNTkxLDkxOTY4NTc0NiwzNTI5Nj
-kwOTQsLTk4MDAxNDY5NiwxMDIwMjMwMzg4LC02MTA4MzM5Nzgs
-NTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNTQ3MTYyNzk5LC0yMD
-g4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAzMjU1MDYsNjE4NzQz
-NDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC05MzA4MTY2NjIsLT
-I3OTEyMjk3NywtMTMyNDk2Njc0OCwtMTE5MDMzODEzMCwxNzY5
-Mjg1MTYyXX0=
+eyJoaXN0b3J5IjpbMzE4OTE1NjY5LDY4Nzg5MTU5MSw5MTk2OD
+U3NDYsMzUyOTY5MDk0LC05ODAwMTQ2OTYsMTAyMDIzMDM4OCwt
+NjEwODMzOTc4LDUzOTM4Mjk0MiwtMTU2MTI4MjIzNywtMTU0Nz
+E2Mjc5OSwtMjA4ODIwMzQ2MiwtMTUwODk1MjM3OSwxMzUwMzI1
+NTA2LDYxODc0MzQ2MiwxMTY5NzIyNDE2LDQzMjY4NTYxMiwtOT
+MwODE2NjYyLC0yNzkxMjI5NzcsLTEzMjQ5NjY3NDgsLTExOTAz
+MzgxMzBdfQ==
 -->
