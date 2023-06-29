@@ -4,7 +4,7 @@
 
 This page contains all the articles @ajhalili2006 used for the Weekly Balitaan homework and all-year-round project in Social Studies 10, albeit incomplete due to reasons such as balancing work-life-rest as autistic student, academic/autistic burnout and mental health behind the scenes, among other things.
 
-Note that links that are in strikethough are considered done by Andrei Jiroh.
+Note that links that are in strikethough are considered done by Andrei Jiroh, although reflection might be missing as mentioned above.
 
 Last updated: 2023-06-28
 
@@ -105,8 +105,8 @@ Last updated: 2023-06-28
 - 2 - ~~https://www.rappler.com/nation/agenda-top-issues-marcos-jr-official-visit-united-states-2023/~~
 - ~~3 - <https://techcrunch.com/2023/05/02/dma-applies>~~
 - 4 - https://news.abs-cbn.com/news/05/03/23/ilang-ofw-mula-sudan-dumating-ngayong-hapon (2023-05-03)
-- 5 - https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study (2023-04-23)
-- 6 - https://news.abs-cbn.com/overseas/05/06/23/charles-iii-crowned-king-at-first-uk-coronation-in-70-years [INTERNATIONAL]
+- 5 - ~~https://news.abs-cbn.com/news/04/24/23/ph-cross-laminated-bamboo-a-promising-construction-material-study~~ (2023-04-23)
+- 6 - ~~https://news.abs-cbn.com/overseas/05/06/23/charles-iii-crowned-king-at-first-uk-coronation-in-70-years~~ [INTERNATIONAL]
 - 7 https://news.abs-cbn.com/news/05/06/23/more-than-1000-rescued-in-pampanga-scam-call-center (2023-05-06)
 - 8 - https://news.abs-cbn.com/spotlight/05/07/23/hollywood-strikes-inflamed-by-claim-ai-could-do-writers-jobs (2023-05-07) [TECH / SHOWBIZ]
 - 9 - https://news.abs-cbn.com/news/04/24/23/up-pioneers-study-seek-cure-for-rugby-abuse (2023-04-23)
@@ -165,11 +165,11 @@ Last updated: 2023-06-28
 > Written with [StackEdit+](https://stackedit.net/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4OTE1NjY5LDY4Nzg5MTU5MSw5MTk2OD
-U3NDYsMzUyOTY5MDk0LC05ODAwMTQ2OTYsMTAyMDIzMDM4OCwt
-NjEwODMzOTc4LDUzOTM4Mjk0MiwtMTU2MTI4MjIzNywtMTU0Nz
-E2Mjc5OSwtMjA4ODIwMzQ2MiwtMTUwODk1MjM3OSwxMzUwMzI1
-NTA2LDYxODc0MzQ2MiwxMTY5NzIyNDE2LDQzMjY4NTYxMiwtOT
-MwODE2NjYyLC0yNzkxMjI5NzcsLTEzMjQ5NjY3NDgsLTExOTAz
-MzgxMzBdfQ==
+eyJoaXN0b3J5IjpbLTE1ODMzOTQ2MzYsNjg3ODkxNTkxLDkxOT
+Y4NTc0NiwzNTI5NjkwOTQsLTk4MDAxNDY5NiwxMDIwMjMwMzg4
+LC02MTA4MzM5NzgsNTM5MzgyOTQyLC0xNTYxMjgyMjM3LC0xNT
+Q3MTYyNzk5LC0yMDg4MjAzNDYyLC0xNTA4OTUyMzc5LDEzNTAz
+MjU1MDYsNjE4NzQzNDYyLDExNjk3MjI0MTYsNDMyNjg1NjEyLC
+05MzA4MTY2NjIsLTI3OTEyMjk3NywtMTMyNDk2Njc0OCwtMTE5
+MDMzODEzMF19
 -->
