@@ -31,13 +31,15 @@ But before that happened, I did some switch-and-bait on Keybase behind the scene
 
 [![This GitHub issue says it all.](/imgs/2023-07-02/BNJuFDHDL9staWWk.png)](https://github.com/keybase/client/issues/25759)
 
-## 4th Quarter Nightmares, featuring Research Defense
+## At least the school year is almost end
+
+Well without going to hell
 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTIwNzYzMDY4NTMsLTEzNjQzMjQwODYsLT
-E4OTk1NjM3NDhdfQ==
+LCJoaXN0b3J5IjpbMTE3NDA0MzQ5OCwtMTM2NDMyNDA4NiwtMT
+g5OTU2Mzc0OF19
 -->
