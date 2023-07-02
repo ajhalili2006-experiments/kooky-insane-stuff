@@ -16,7 +16,7 @@ Don't worry, he's probably fine [^3] other than the regular internalized ableism
 
 I do dump out thoughts, things that I may need to do (before I got my own planner since 2023 F2F Christmas party in school which albeit unused), and even drawn out UI sketches of my app ideas (mostly either web app or Android, some on terminal interface or desktop) and ungodly amount of manual math calculations on the back of my school notebooks, which other people (especially my subject teachers and even my mom) think I'm wasting papers, so I bought some spare one for my personal use.
 
-And because autistic people tend to have these wiki-like levels of knowledge about their topics of interest (we also call them as special interests or "SpIns" in short), this is probably one of my wildest ideas to publish some of my (not crazed, sometimes chaotic as hell) ramblings and notes to your very own eyeballs since I use [StackEdit+](https://stackedit.net)[^3], among both Notion and Google Notes in past and currently Coda and Apple Notes[^4].
+And because autistic people tend to have these wiki-like levels of knowledge about their topics of interest (we also call them as special interests or "SpIns" in short), this is probably one of my wildest ideas to publish some of my (not crazed, sometimes chaotic as hell) ramblings and notes to your very own eyeballs since I use [StackEdit+](https://stackedit.net)[^2], among both Notion and Google Notes in past and currently Coda and Apple Notes[^4].
 
 ## Contents
 
@@ -36,11 +36,14 @@ And because autistic people tend to have these wiki-like levels of knowledge abo
 All Markdown content and original media should be under CC-BY-SA-4.0 unless otherwise noted.
 
 [^1]: Some of these might even gets merged into the [Multiverse Wiki](https://multiverse.lorebooks.eu.org) at [`lorebooks.wiki`](https://lorebooks.eu.org).
+
 [^2]: I'm using the currently and actively maintained fork over the original project due to some various issues.
-[^3]: Unless you ask either [Elliot Alderson](https://go.andreijiroh.eu.org/elliot) (Mr. Robot), [Yusaku Fujiki](https://go.andreijiroh,eu.org/playmaker) (YGO VRAINS), [Fundy](https://go.andreijiroh.eu.org/fundy/dsmp) (Dream SMP character) or [Hunter](https://go.andreijiroh.eu.org/toh/hunter) (The Owl House).
+
+[^3]: Unless you ask either [Elliot Alderson](https://mrrobot.fandom.com/wiki/Elliot_Alderson) (Mr. Robot), [Yusaku Fujiki](https://go.andreijiroh,eu.org/playmaker) (YGO VRAINS), [Fundy](https://go.andreijiroh.eu.org/fundy/dsmp) (Dream SMP character) or [Hunter](https://go.andreijiroh.eu.org/toh/hunter) (The Owl House).
+
 [^4]: I'm not an Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a MacBook if you do, just ask in Keybase for the address once you have shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTEwMDA3MCwtMTAyMzE5NTM4NSw2OD
-cxNTY0NDIsNjc0NjYxMDU1LC0xMzU5MTU3MTYyLC0xMDM0MDc5
-NTAyLDY4MDcyMzYyMV19
+eyJoaXN0b3J5IjpbLTIxNDY3MzMyODMsLTEwMjMxOTUzODUsNj
+g3MTU2NDQyLDY3NDY2MTA1NSwtMTM1OTE1NzE2MiwtMTAzNDA3
+OTUwMiw2ODA3MjM2MjFdfQ==
 -->
