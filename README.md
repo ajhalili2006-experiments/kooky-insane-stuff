@@ -7,7 +7,7 @@
 
 This repository contains content ranging from his personal character dossiers [^1] in different fandoms to some of the unholy grails from the back of his mind, hopefully not suicidal enough to call the ambulance yet[^3].
 
-Don't worry, he's probably fine [^2] other than the regular internalized ableism and too much on "beating himself up harder every time he fucked up" as (actually) Autistic (currently [masking like hell IRL](https://twitter.com/Kuys_Potpot/status/1640025400263999489?s=20), but working on it behind the scenes) person.
+Don't worry, he's probably fine [^3] other than the regular internalized ableism and too much on "beating himself up harder every time he fucked up" as (actually) Autistic (currently [masking like hell IRL](https://twitter.com/Kuys_Potpot/status/1640025400263999489?s=20), but working on it behind the scenes) person.
 
 ## How the actual `[CENSORED BY MTRCB]` we got here?
 
@@ -40,7 +40,7 @@ All Markdown content and original media should be under CC-BY-SA-4.0 unless othe
 [^3]: I'm using the currently and actively maintained fork over the original project due to some various issues.
 [^4]: I'm not an Apple fanboy (yet), but I have experience using them btw but currently on iCloud and iPhones. Feel free to gift me a MacBook if you do, just ask in Keybase for the address once you have shown me the (wrapped in gift wrapper with receipt for optionally additional remembrance) box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMxOTUzODUsNjg3MTU2NDQyLDY3ND
-Y2MTA1NSwtMTM1OTE1NzE2MiwtMTAzNDA3OTUwMiw2ODA3MjM2
-MjFdfQ==
+eyJoaXN0b3J5IjpbMTE0Mjk1MTMzNCwtMTAyMzE5NTM4NSw2OD
+cxNTY0NDIsNjc0NjYxMDU1LC0xMzU5MTU3MTYyLC0xMDM0MDc5
+NTAyLDY4MDcyMzYyMV19
 -->
