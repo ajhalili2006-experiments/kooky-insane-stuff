@@ -33,14 +33,14 @@ But before that happened, I did some switch-and-bait on Keybase behind the scene
 
 ## At least the school year is almost end
 
-Well without going to hell, having thoughts about ["digging my own grave"](https://www.youtube.com/watch?v=zfeJiilDPp8)
+Well without going to hell, having thoughts about ["digging my own grave"](https://www.youtube.com/watch?v=zfeJiilDPp8) and even getting a coffin for myself
 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbNzg5Nzk5NTgsLTExNzMwNDExMDAsOTg5Mj
-g2MjQwLC05Mjg2MjI1MzcsMTE3NDA0MzQ5OCwtMTM2NDMyNDA4
-Nl19
+LCJoaXN0b3J5IjpbMTM3ODQ5NTc4LDc4OTc5OTU4LC0xMTczMD
+QxMTAwLDk4OTI4NjI0MCwtOTI4NjIyNTM3LDExNzQwNDM0OTgs
+LTEzNjQzMjQwODZdfQ==
 -->
