@@ -27,19 +27,19 @@ If you want a bit of mixtaping from hell while we wait for the official soundtra
 
 To make my username match across platforms, I decided to officially change mine after literally years being stuck on my childhood-ish Twitter username (good that older posts before I reach 13 were automagically nuked to hell as part of birthdate change for obvious privacy reasons)
 
-But before that happened, I did some switch-and-bait on Keybase behind the scenes and this happened. Musk always love violence against third-party devs and literally every single API user, 
+But before that happened, I did some switch-and-bait on Keybase behind the scenes and this happened. Musk always love violence against third-party devs and literally every single API user, but maybe backend changes on Keybase's side caused this chaos to happened.
 
 [![This GitHub issue says it all.](/imgs/2023-07-02/BNJuFDHDL9staWWk.png)](https://github.com/keybase/client/issues/25759)
 
 ## At least the school year is almost end
 
-Well without going to hell
+Well without going to hell, having thoughts about 
 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTkyODYyMjUzNywxMTc0MDQzNDk4LC0xMz
-Y0MzI0MDg2XX0=
+LCJoaXN0b3J5IjpbOTg5Mjg2MjQwLC05Mjg2MjI1MzcsMTE3ND
+A0MzQ5OCwtMTM2NDMyNDA4Nl19
 -->
