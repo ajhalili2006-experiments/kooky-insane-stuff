@@ -15,7 +15,7 @@ Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for 
 
 ## The backstory: The formal diagnosis in early childhood
 
-I'm gonna admit that I was privileged enough to have a formal diagnosis early on, but my support system is between non-existent and mostly unstable due to flawed understanding about autism (I'm not your cis white male autistic child you ever imagine.)
+I'm going to admit that I was privileged enough to have a formal diagnosis early on, but my support system is between non-existent and mostly unstable due to flawed understanding about autism (I'm not your cis white male autistic child you ever imagine.)
 
 <!-- Links go here. -->
 [#ActuallyAutistic]: https://todo.com
@@ -26,6 +26,6 @@ I'm gonna admit that I was privileged enough to have a formal diagnosis early on
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMzQ1MjQyMjYsMTc1MzM1NzIyMiwtMTM0Mj
-IzNTAzMCwtMzcxOTE1NDE2XX0=
+LCJoaXN0b3J5IjpbLTgwNzI4NzM2MiwzNDUyNDIyNiwxNzUzMz
+U3MjIyLC0xMzQyMjM1MDMwLC0zNzE5MTU0MTZdfQ==
 -->
