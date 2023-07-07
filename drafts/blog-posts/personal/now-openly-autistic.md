@@ -9,7 +9,7 @@ targetPlatform: substack.com, medium.com, post.news
 
 **Mandatory content warnings, per MTRCB policies**: Mentions of suicidal ideation, mental health issues and possibly childhood trauma of growing up neurodivergent.
 
-I'm holding this for years, and I'm going to say this might affect what people think about me, especially my employability (although I might consider pivoting into self-employment through making Recap Time Squad officially a legal company and also going full-time on open-source). I also have some reservations about this, because I may not ready to take the self-advocacy role yet without
+I'm holding this for years, and I'm going to say this might affect what people think about me, especially my employability (although I might consider pivoting into self-employment by making Recap Time Squad officially a legal company and also going full-time on open-source). I also have some reservations about this, because I may not be ready to take the self-advocacy role yet without
 
 Here are the words: I'm **[#ActuallyAutistic]**, but under that [thick mask for years] powered by neurotypicalism I do experience anxiety (especially social, performance and math anxiety) and depressed, often times a [doomer](https://www.reddit.com/r/doomer/comments/i2i4a6/is_anyone_else_here_on_the_autism_spectrum/?utm_source=share&utm_medium=web2x&context=3)/pessimistic/catastrophizing about the future (especially my own prospects, including the literal use of the terms like "Look How Fucked We Are" and "Stop Here or We're Fucked" from TheJuiceMedia's Honest Government Ad) while at the same time figuring out about my trauma while growing up neurodivergent and fighting against my own inner demons (a.k.a internalized ableism and my low self-esstem).
 
@@ -26,6 +26,6 @@ I'm gonna admit that I was privileged enough to have a formal diagnosis early on
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMTE1MjYxMTMzMywxNzUzMzU3MjIyLC0xMz
-QyMjM1MDMwLC0zNzE5MTU0MTZdfQ==
+LCJoaXN0b3J5IjpbMzQ1MjQyMjYsMTc1MzM1NzIyMiwtMTM0Mj
+IzNTAzMCwtMzcxOTE1NDE2XX0=
 -->
