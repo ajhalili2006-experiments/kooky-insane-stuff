@@ -2,7 +2,9 @@
 
 # Blog content license legalese
 
-This page contains all the documentation
+This page contains all the documentation you need to (re)use my blog content into yours.
+
+*Last updated on 2023-07-09, track all changes at [GitHub](https://github.com/ajhalili2006-experiments/kooky-insane-stuff/tree/main/dumpster-fires/blog/content-license-legalese.md).*
 
 ## TL;DR
 
@@ -45,5 +47,5 @@ For third-party content in blog posts, look for credits to get information about
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbNTUzNjI1NjAxXX0=
+LCJoaXN0b3J5IjpbMTU5NDAwODYxMF19
 -->
