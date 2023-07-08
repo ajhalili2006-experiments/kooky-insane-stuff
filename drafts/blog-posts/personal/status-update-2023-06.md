@@ -1,8 +1,10 @@
+
 ---
 title: May and June 2023 Status Update
-subtitle: If my Autistic self don't hoard fandoms like digital hoarders committing digital piracy for personal use, then we should be fine.
-publication: personal
-targetPlatform: substack.com
+subtitle: If my Autistic self don't hoard fandoms like digital hoarders committing digital piracy for personal use, then we should be finTitle goes here.
+subtitle: Subtitle goes here.
+publication: personaltbd
+targetPlatform: substack.comtbd
 ---
 
 Sometimes, being busy in school I miss posting status updates by a few weeks up to the point I’m considering going quarterly status updates instead of doing this every two months, although like ~sircmpwn, I might not be able to do it on time and maybe get consolidated into one to avoid backlogs on the pile of Substack drafts behind the scenes.
@@ -13,7 +15,7 @@ Sure, I might technically be having a field day in both Lackadaisy and Murder Dr
 
 [![Enter-image-description](/imgs/2023-06-26/8CHCGP9jQefdBplS.png)](https://twitter.com/JirohsMind/status/1659944193249411072?s=20)
 
-(If you have no idea about Yupia (or WTFBBQ why we're talking about Story X in Gildedguy's Discord in relation to that), then please behold and watch “Esearas Hhumanity” on YouTube.)
+(If you have no idea about Yupia (or WTFBBQ why we're talking about Story X in Gildedguy's Discord in relation to that), then please behold and watch “Esearase Hhumanity” on YouTube.)
 
 ### What about Ranboo’s Generation Loss?
 
@@ -35,12 +37,14 @@ But before that happened, I did some switch-and-bait on Keybase behind the scene
 
 Well without going to hell, having thoughts about ["digging my own grave"](https://www.youtube.com/watch?v=zfeJiilDPp8) and even getting a coffin for myself
 
+## 4th Quarter Nightmares, featuring Research Defense
+
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMTM3ODQ5NTc4LDc4OTc5OTU4LC0xMTczMD
-QxMTAwLDk4OTI4NjI0MCwtOTI4NjIyNTM3LDExNzQwNDM0OTgs
-LTEzNjQzMjQwODZdfQ==
+LCJoaXN0b3J5IjpbMzIyNjAzMTM4LDEzNzg0OTU3OCw3ODk3OT
+k1OCwtMTE3MzA0MTEwMCw5ODkyODYyNDAsLTkyODYyMjUzNywx
+MTc0MDQzNDk4LC0xMzY0MzI0MDg2XX0=
 -->
